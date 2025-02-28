@@ -1,0 +1,217 @@
+{
+  "id": "https://globalise-huygens.github.io/2025-warwick-workshop/annotations/georeferencing/W2.json",
+  "type": "AnnotationPage",
+  "@context": "http://www.w3.org/ns/anno.jsonld",
+  "items": [
+    {
+      "id": "https://annotations.allmaps.org/maps/b30ce9f3a6965992",
+      "type": "Annotation",
+      "@context": [
+        "http://iiif.io/api/extension/georef/1/context.json",
+        "http://iiif.io/api/presentation/3/context.json"
+      ],
+      "created": "2025-02-28T17:08:34.071Z",
+      "modified": "2025-02-28T17:08:34.071Z",
+      "motivation": "georeferencing",
+      "target": {
+        "type": "SpecificResource",
+        "source": {
+          "id": "https://data.globalise.huygens.knaw.nl/manifests/maps/4.VEL/B/B.3/B.3.3/231.json/canvas/p1",
+          "type": "Canvas",
+          "partOf": {
+            "id": "https://globalise-huygens.github.io/2025-warwick-workshop/manifest.json",
+            "type": "Manifest",
+            "label": {
+              "en": [
+                "Selection of maps for the 2025 GLOBALISE Necessary Reunions Warwick Workshop"
+              ]
+            }
+          }
+        },
+        "selector": {
+          "type": "SvgSelector",
+          "value": "<svg width=\"8906\" height=\"6429\"><polygon points=\"140,186 8799,191 8804,6333 102,6338\" /></svg>"
+        }
+      },
+      "body": {
+        "type": "FeatureCollection",
+        "transformation": {
+          "type": "thinPlateSpline"
+        },
+        "features": [
+          {
+            "type": "Feature",
+            "properties": {
+              "resourceCoords": [
+                3247,
+                4703
+              ]
+            },
+            "geometry": {
+              "type": "Point",
+              "coordinates": [
+                76.5443651,
+                8.9357708
+              ]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+              "resourceCoords": [
+                4311,
+                5136
+              ]
+            },
+            "geometry": {
+              "type": "Point",
+              "coordinates": [
+                78.067445,
+                8.3735807
+              ]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+              "resourceCoords": [
+                6003,
+                1412
+              ]
+            },
+            "geometry": {
+              "type": "Point",
+              "coordinates": [
+                80.3168413,
+                13.4194596
+              ]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+              "resourceCoords": [
+                3697,
+                5364
+              ]
+            },
+            "geometry": {
+              "type": "Point",
+              "coordinates": [
+                77.3149001,
+                8.1196465
+              ]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+              "resourceCoords": [
+                5646,
+                4121
+              ]
+            },
+            "geometry": {
+              "type": "Point",
+              "coordinates": [
+                79.9095527,
+                9.773199
+              ]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+              "resourceCoords": [
+                3831,
+                5349
+              ]
+            },
+            "geometry": {
+              "type": "Point",
+              "coordinates": [
+                77.5407729,
+                8.0789931
+              ]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+              "resourceCoords": [
+                2865,
+                3758
+              ]
+            },
+            "geometry": {
+              "type": "Point",
+              "coordinates": [
+                76.2409356,
+                9.9715782
+              ]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+              "resourceCoords": [
+                5561,
+                3643
+              ]
+            },
+            "geometry": {
+              "type": "Point",
+              "coordinates": [
+                79.8699009,
+                10.283108
+              ]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+              "resourceCoords": [
+                1948,
+                1157
+              ]
+            },
+            "geometry": {
+              "type": "Point",
+              "coordinates": [
+                74.6701433,
+                13.6388483
+              ]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+              "resourceCoords": [
+                5564,
+                3339
+              ]
+            },
+            "geometry": {
+              "type": "Point",
+              "coordinates": [
+                79.8335183,
+                10.7499997
+              ]
+            }
+          }
+        ],
+        "_allmaps": {
+          "id": "https://annotations.allmaps.org/maps/b30ce9f3a6965992",
+          "version": "https://annotations.allmaps.org/maps/b30ce9f3a6965992@f6ebb155e558a246",
+          "image": {
+            "id": "https://annotations.allmaps.org/images/e5d63a4ffa9c98ab",
+            "version": "https://annotations.allmaps.org/images/e5d63a4ffa9c98ab@5998579903dc0bbc",
+            "canvases": []
+          },
+          "scale": 0.006689,
+          "area": 1192406994186.78
+        }
+      }
+    }
+  ]
+}
