@@ -44,7 +44,7 @@ We'll use the collaborative annotation environment [Liiive](https://liiive.now/)
 2. You can add extra information on this area in a free text comment field. To give this information a bit more structure, put a **transcription** of the text between `"`quotes`"`. Similarly, if you want to tag an area of the map, prefix your tags with a `#`. 
 3. Besides **transcribing** and **tagging**, you can also include **urls** to external sources that provide more information on the area that you are annotating. For instance, you could link to the Wikipedia/Wikidata page, or link to the GeoNames page of a place. The fact that these urls start with `http` will make them stand out from other annotations.
 4. Any other remarks and comments can be added in the free text comment field like normal text.
-5. Leave a **new comment** for each of the transcription, tags, and urls. This way, we can easily filter and search through the annotations later on.
+5. Enter every **new comment** for the same area on a new line, or reply to an existing comment for each of the transcription, tags, and urls. This way, we can easily filter and search through the annotations later on.
 
 ### Examples
 Here are some examples of how you could annotate a map:
