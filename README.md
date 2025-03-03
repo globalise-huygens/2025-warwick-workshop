@@ -31,7 +31,7 @@ The URI of this manifest is: [`https://globalise-huygens.github.io/2025-warwick-
 ### Links for viewing
 * View the manifest in [Mirador](https://projectmirador.org/embed/?iiif-content=https://globalise-huygens.github.io/2025-warwick-workshop/manifest.json) 
 * View the manifet in [Theseus Viewer](https://theseusviewer.org/?iiif-content=https%3A%2F%2Fglobalise-huygens.github.io%2F2025-warwick-workshop%2Fmanifest.json)
-* View the manifest in [Allmaps](https://viewer.allmaps.org/?manifest=https%253A%252F%252Fglobalise-huygens.github.io%252F2025-warwick-workshop%252Fmanifest.json)
+* View the manifest in [Allmaps](https://viewer.allmaps.org/?url=https%3A%2F%2Fglobalise-huygens.github.io%2F2025-warwick-workshop%2Fmanifest.json)
 
 ### Links for annotating
 * Georeference these maps in [Allmaps](https://editor.allmaps.org/images?url=https%3A%2F%2Fglobalise-huygens.github.io%2F2025-warwick-workshop%2Fmanifest.json)
