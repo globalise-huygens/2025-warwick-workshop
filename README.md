@@ -10,6 +10,7 @@ This repository contains the data and annotations that were used and created dur
     - [Links for annotating](#links-for-annotating)
   - [Collaborative Annotation](#collaborative-annotation)
     - [Examples](#examples)
+  - [Output](#output)
 
 
 ## Summary
@@ -59,3 +60,6 @@ Here are some examples of how you could annotate a map:
 ![Full example](images/example_full.png)
 
 The goal of this workshop is to get a sense of the kind of information that can be extracted from these maps. We are not looking for a complete transcription or annotation of the maps. Feel free to annotate as much or as little as you like.
+
+## Output
+At the end of the workshop, we hope to generate an overview of all annotations made. Check out the [output.md](output.md) file in this repository for this overview.
