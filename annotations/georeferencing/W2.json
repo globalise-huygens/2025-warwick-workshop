@@ -206,7 +206,16 @@
           "image": {
             "id": "https://annotations.allmaps.org/images/e5d63a4ffa9c98ab",
             "version": "https://annotations.allmaps.org/images/e5d63a4ffa9c98ab@5998579903dc0bbc",
-            "canvases": []
+            "canvases": [
+              {
+                "id": "https://annotations.allmaps.org/canvases/66ddccde0dac3983",
+                "manifests": [
+                  {
+                    "id": "https://annotations.allmaps.org/manifests/431d448ef6639863"
+                  }
+                ]
+              }
+            ]
           },
           "scale": 0.006689,
           "area": 1192406994186.78

@@ -1,0 +1,69 @@
+{
+  "id": "https://globalise-huygens.github.io/2025-warwick-workshop/annotations/liiive/W9.json",
+  "type": "AnnotationPage",
+  "items": [
+    {
+      "id": "https://data.globalise.huygens.knaw.nl/manifests/maps/4.VELH/B/B.3/B.3.11/algemeen/156.1-156.2.9.json/canvas/p41/42544c9c-5faf-4cfa-b66e-efa5be5fabde",
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": [
+        {
+          "created": "2025-03-01T05:56:02.984Z",
+          "creator": "Manjusha",
+          "purpose": "commenting",
+          "type": "TextualBody",
+          "format": "text/html",
+          "value": "<p>#Crangenoor</p><p>Icon: River</p><p>Type_Text: </p><p><a target=\"_blank\" rel=\"noopener noreferrer nofollow\" class=\"text-blue-500 underline hover:text-blue-600\" href=\"https://www.wikidata.org/wiki/Q1006282\">https://www.wikidata.org/wiki/Q1006282</a></p>"
+        }
+      ],
+      "target": "https://data.globalise.huygens.knaw.nl/manifests/maps/4.VELH/B/B.3/B.3.11/algemeen/156.1-156.2.9.json/canvas/p41#xywh=14941,1838,92,426"
+    },
+    {
+      "id": "https://data.globalise.huygens.knaw.nl/manifests/maps/4.VELH/B/B.3/B.3.11/algemeen/156.1-156.2.9.json/canvas/p41/cc528cbf-a105-4cc9-bba5-40bbbe9f6fb3",
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": [
+        {
+          "created": "2025-03-03T20:42:30.015Z",
+          "creator": "Leon van Wissen",
+          "purpose": "commenting",
+          "type": "TextualBody",
+          "format": "text/html",
+          "value": "<p>\"Coijlang\"<br>#Dutch flag<br>Nowadays, Coijlang is called Kayankulam.<br><a target=\"_blank\" rel=\"noopener noreferrer nofollow\" class=\"text-blue-500 underline hover:text-blue-600\" href=\"https://en.wikipedia.org/wiki/Kayamkulam\">https://en.wikipedia.org/wiki/Kayamkulam</a></p>"
+        }
+      ],
+      "target": "https://data.globalise.huygens.knaw.nl/manifests/maps/4.VELH/B/B.3/B.3.11/algemeen/156.1-156.2.9.json/canvas/p41#xywh=16693,1255,86,394"
+    },
+    {
+      "id": "https://data.globalise.huygens.knaw.nl/manifests/maps/4.VELH/B/B.3/B.3.11/algemeen/156.1-156.2.9.json/canvas/p41/e83af623-95fa-4ffe-8abc-fd950a0d6a3f",
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": [
+        {
+          "created": "2025-03-03T20:55:19.606Z",
+          "creator": "Leon van Wissen",
+          "purpose": "commenting",
+          "type": "TextualBody",
+          "format": "text/html",
+          "value": "<p>#undeep area</p>"
+        },
+        {
+          "created": "2025-03-03T20:56:38.709Z",
+          "creator": "Leon van Wissen",
+          "purpose": "replying",
+          "type": "TextualBody",
+          "format": "text/html",
+          "value": "<p>Is this a sand bank, or has something maybe sunk here?</p>"
+        }
+      ],
+      "target": {
+        "type": "SpecificResource",
+        "source": "https://data.globalise.huygens.knaw.nl/manifests/maps/4.VELH/B/B.3/B.3.11/algemeen/156.1-156.2.9.json/canvas/p41",
+        "selector": {
+          "type": "SvgSelector",
+          "value": "<svg><ellipse cx=\"17448\" cy=\"1379\" rx=\"37\" ry=\"37\" /></svg>"
+        }
+      }
+    }
+  ]
+}

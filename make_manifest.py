@@ -117,12 +117,53 @@ def get_navplace_feature(iiif_info_url):
     return feature_collection
 
 
-def integrate_user_annotations(todo):
-    pass
+def get_liiive_annotations(identifier, canvas_id, liiive_manifest_filepath, embedded):
+
+    with open(liiive_manifest_filepath) as infile:
+        liiive_manifest = json.load(infile)
+
+    annotation_page_id = f"{PREFIX}annotations/liiive/{identifier}.json"
+
+    for i in liiive_manifest["items"]:
+        if i["id"] == canvas_id:
+
+            annotations = []
+            for a in i["annotations"][0]["items"]:
+                if a["type"] == "AnnotationPage":
+                    continue
+
+                annotations.append(a)
+
+            break
+
+    if annotations:
+        ap = {
+            "type": "AnnotationPage",
+            "items": annotations,
+        }
+    else:
+        return
+
+    if not embedded:
+        ap = {"id": annotation_page_id, **ap}
+
+        with open(f"annotations/liiive/{identifier}.json", "w") as outfile:
+            json.dump(ap, outfile, indent=2)
+
+        return iiif_prezi3.Reference(
+            id=annotation_page_id,
+            label="Georeferencing Annotations made with Liiive",
+            type="AnnotationPage",
+        )
+    else:
+        return ap
 
 
 def main(
-    selection_filepath="selectie.csv", output_filepath="manifest.json", embedded=False
+    selection_filepath="selectie.csv",
+    output_filepath="manifest.json",
+    liiive_manifest="",
+    embedded=False,
 ):
 
     df = pd.read_csv(selection_filepath)
@@ -156,6 +197,27 @@ def main(
 
                 c.navPlace = navPlace
 
+    # Also integrate user annotations, downloaded from Liiive
+    for i in df.itertuples():
+
+        identifier = i.index
+        canvas_id = i.iiif_canvas_id
+
+        ap = get_liiive_annotations(
+            identifier, canvas_id, liiive_manifest, embedded=embedded
+        )
+
+        if ap is None:
+            continue
+
+        for c in manifest.items:
+            if c.id == canvas_id:
+
+                if not c.annotations:
+                    c.annotations = []
+
+                c.annotations.append(ap)
+
     # Edit context
     manifest_jsonld = manifest.jsonld_dict()
     manifest_jsonld["@context"] = [
@@ -171,4 +233,8 @@ def main(
 if __name__ == "__main__":
 
     # One manifest with external (referenced) annotations
-    main(selection_filepath="selection.csv", output_filepath="manifest.json")
+    main(
+        selection_filepath="selection.csv",
+        output_filepath="manifest.json",
+        liiive_manifest="liiive_manifest.json",
+    )

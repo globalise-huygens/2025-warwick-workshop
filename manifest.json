@@ -208,6 +208,15 @@
             ]
           },
           "type": "AnnotationPage"
+        },
+        {
+          "id": "https://globalise-huygens.github.io/2025-warwick-workshop/annotations/liiive/W2.json",
+          "label": {
+            "en": [
+              "Georeferencing Annotations made with Liiive"
+            ]
+          },
+          "type": "AnnotationPage"
         }
       ]
     },
@@ -747,6 +756,17 @@
               "target": "https://data.globalise.huygens.knaw.nl/manifests/maps/4.VELH/B/B.3/B.3.11/algemeen/156.1-156.2.9.json/canvas/p41"
             }
           ]
+        }
+      ],
+      "annotations": [
+        {
+          "id": "https://globalise-huygens.github.io/2025-warwick-workshop/annotations/liiive/W9.json",
+          "label": {
+            "en": [
+              "Georeferencing Annotations made with Liiive"
+            ]
+          },
+          "type": "AnnotationPage"
         }
       ]
     },
