@@ -18,6 +18,12 @@
 ![](https://service.archief.nl/iip/iipsrv?IIIF=/ea/ca/dd/c0/5e/30/48/38/92/e2/a4/08/67/86/c6/f0/7beaf613-68bf-4070-b79b-bb5c9282edcd.jp2/25894,2134,127,48/full/0/default.jpg)<p>"pagood"</p>
 
 
+![](https://service.archief.nl/iip/iipsrv?IIIF=/ea/ca/dd/c0/5e/30/48/38/92/e2/a4/08/67/86/c6/f0/7beaf613-68bf-4070-b79b-bb5c9282edcd.jp2/26167,2140,99,87/full/0/default.jpg)<p>#Castle</p>
+
+
+![](https://service.archief.nl/iip/iipsrv?IIIF=/ea/ca/dd/c0/5e/30/48/38/92/e2/a4/08/67/86/c6/f0/7beaf613-68bf-4070-b79b-bb5c9282edcd.jp2/26005,2223,242,56/full/0/default.jpg)<p>"'s Conings Eúys"</p>
+
+
 ![](https://service.archief.nl/iip/iipsrv?IIIF=/ea/ca/dd/c0/5e/30/48/38/92/e2/a4/08/67/86/c6/f0/7beaf613-68bf-4070-b79b-bb5c9282edcd.jp2/21200,1774,146,100/full/0/default.jpg)<p>Pagoda</p>
 
 
@@ -42,12 +48,27 @@
 ![](https://service.archief.nl/iip/iipsrv?IIIF=/ea/ca/dd/c0/5e/30/48/38/92/e2/a4/08/67/86/c6/f0/7beaf613-68bf-4070-b79b-bb5c9282edcd.jp2/20966,1020,136,88/full/0/default.jpg)<p>#church</p><p></p>
 
 
+![](https://service.archief.nl/iip/iipsrv?IIIF=/ea/ca/dd/c0/5e/30/48/38/92/e2/a4/08/67/86/c6/f0/7beaf613-68bf-4070-b79b-bb5c9282edcd.jp2/20788,957,308,70/full/0/default.jpg)<p>"St. Thomees kerk"</p>
+
+
+![](https://service.archief.nl/iip/iipsrv?IIIF=/ea/ca/dd/c0/5e/30/48/38/92/e2/a4/08/67/86/c6/f0/7beaf613-68bf-4070-b79b-bb5c9282edcd.jp2/20925,802,172,73/full/0/default.jpg)<p>"Pagood"</p>
+
+
+![](https://service.archief.nl/iip/iipsrv?IIIF=/ea/ca/dd/c0/5e/30/48/38/92/e2/a4/08/67/86/c6/f0/7beaf613-68bf-4070-b79b-bb5c9282edcd.jp2/21041,2096,185,106/full/0/default.jpg)<p>"Paymes"</p>
+
+
+![](https://service.archief.nl/iip/iipsrv?IIIF=/ea/ca/dd/c0/5e/30/48/38/92/e2/a4/08/67/86/c6/f0/7beaf613-68bf-4070-b79b-bb5c9282edcd.jp2/20170,1594,233,93/full/0/default.jpg)<p>"Wagtluys"</p>
+
+
 ![](https://service.archief.nl/iip/iipsrv?IIIF=/ea/ca/dd/c0/5e/30/48/38/92/e2/a4/08/67/86/c6/f0/7beaf613-68bf-4070-b79b-bb5c9282edcd.jp2/14419,3797,189,65/full/0/default.jpg)<p>"fortress"</p>
 <p>#defence</p>
 <p>#defence</p>
 
 
 ![](https://service.archief.nl/iip/iipsrv?IIIF=/ea/ca/dd/c0/5e/30/48/38/92/e2/a4/08/67/86/c6/f0/7beaf613-68bf-4070-b79b-bb5c9282edcd.jp2/14234,3934,159,65/full/0/default.jpg)<p>"fortress"</p>
+
+
+![](https://service.archief.nl/iip/iipsrv?IIIF=/ea/ca/dd/c0/5e/30/48/38/92/e2/a4/08/67/86/c6/f0/7beaf613-68bf-4070-b79b-bb5c9282edcd.jp2/14680,4392,131,116/full/0/default.jpg)<p>"Dieven Eyland"</p>
 
 
 ![](https://service.archief.nl/iip/iipsrv?IIIF=/ea/ca/dd/c0/5e/30/48/38/92/e2/a4/08/67/86/c6/f0/7beaf613-68bf-4070-b79b-bb5c9282edcd.jp2/18890,2524,979,117/full/0/default.jpg)<p>het begin van Teckencoer</p>
@@ -68,25 +89,10 @@
 ![](https://service.archief.nl/iip/iipsrv?IIIF=/ea/ca/dd/c0/5e/30/48/38/92/e2/a4/08/67/86/c6/f0/7beaf613-68bf-4070-b79b-bb5c9282edcd.jp2/20104,3072,434,227/full/0/default.jpg)<p>"'t land van Porka" </p><p>#polity</p><p><a target="_blank" rel="noopener noreferrer nofollow" class="text-blue-500 underline hover:text-blue-600" href="https://www.geonames.org/10926331/purakkad.html">https://www.geonames.org/10926331/purakkad.html</a></p>
 
 
-![](https://service.archief.nl/iip/iipsrv?IIIF=/ea/ca/dd/c0/5e/30/48/38/92/e2/a4/08/67/86/c6/f0/7beaf613-68bf-4070-b79b-bb5c9282edcd.jp2/20788,957,308,70/full/0/default.jpg)<p>"St. Thomees kerk"</p>
+![](https://service.archief.nl/iip/iipsrv?IIIF=/ea/ca/dd/c0/5e/30/48/38/92/e2/a4/08/67/86/c6/f0/7beaf613-68bf-4070-b79b-bb5c9282edcd.jp2/19951,2607,627,188/full/0/default.jpg)<p>Manamangele</p>
 
 
-![](https://service.archief.nl/iip/iipsrv?IIIF=/ea/ca/dd/c0/5e/30/48/38/92/e2/a4/08/67/86/c6/f0/7beaf613-68bf-4070-b79b-bb5c9282edcd.jp2/20925,802,172,73/full/0/default.jpg)<p>"Pagood"</p>
-
-
-![](https://service.archief.nl/iip/iipsrv?IIIF=/ea/ca/dd/c0/5e/30/48/38/92/e2/a4/08/67/86/c6/f0/7beaf613-68bf-4070-b79b-bb5c9282edcd.jp2/21041,2096,185,106/full/0/default.jpg)<p>"Paymes"</p>
-
-
-![](https://service.archief.nl/iip/iipsrv?IIIF=/ea/ca/dd/c0/5e/30/48/38/92/e2/a4/08/67/86/c6/f0/7beaf613-68bf-4070-b79b-bb5c9282edcd.jp2/26167,2140,99,87/full/0/default.jpg)<p>#Castle</p>
-
-
-![](https://service.archief.nl/iip/iipsrv?IIIF=/ea/ca/dd/c0/5e/30/48/38/92/e2/a4/08/67/86/c6/f0/7beaf613-68bf-4070-b79b-bb5c9282edcd.jp2/26005,2223,242,56/full/0/default.jpg)<p>"'s Conings Eúys"</p>
-
-
-![](https://service.archief.nl/iip/iipsrv?IIIF=/ea/ca/dd/c0/5e/30/48/38/92/e2/a4/08/67/86/c6/f0/7beaf613-68bf-4070-b79b-bb5c9282edcd.jp2/20170,1594,233,93/full/0/default.jpg)<p>"Wagtluys"</p>
-
-
-![](https://service.archief.nl/iip/iipsrv?IIIF=/ea/ca/dd/c0/5e/30/48/38/92/e2/a4/08/67/86/c6/f0/7beaf613-68bf-4070-b79b-bb5c9282edcd.jp2/14680,4392,131,116/full/0/default.jpg)<p>"Dieven Eyland"</p>
+![](https://service.archief.nl/iip/iipsrv?IIIF=/ea/ca/dd/c0/5e/30/48/38/92/e2/a4/08/67/86/c6/f0/7beaf613-68bf-4070-b79b-bb5c9282edcd.jp2/22059,3452,285,111/full/0/default.jpg)<p>"'s Conings woningh" (the kings residence)</p>
 
 
 ![](https://service.archief.nl/iip/iipsrv?IIIF=/7f/cb/b1/9b/56/2f/49/68/8f/7c/d1/f7/22/10/ba/da/f621e699-48f5-46f5-9974-a10090d5b083.jp2/2577,3719,293,102/full/0/default.jpg)<p>#Cochin</p>
@@ -135,7 +141,7 @@
 ![](https://service.archief.nl/iip/iipsrv?IIIF=/1f/09/5e/1a/d1/19/49/eb/b0/7b/2f/cf/d8/ac/a2/cb/dbbfd61f-a4d4-48bb-a0bc-5df321dfaad6.jp2/6794,2645,108,126/full/0/default.jpg)<p>City symbol</p>
 
 
-![](https://service.archief.nl/iip/iipsrv?IIIF=/1f/09/5e/1a/d1/19/49/eb/b0/7b/2f/cf/d8/ac/a2/cb/dbbfd61f-a4d4-48bb-a0bc-5df321dfaad6.jp2/6786,2788,62,201/full/0/default.jpg)<p>Pateys</p>
+![](https://service.archief.nl/iip/iipsrv?IIIF=/1f/09/5e/1a/d1/19/49/eb/b0/7b/2f/cf/d8/ac/a2/cb/dbbfd61f-a4d4-48bb-a0bc-5df321dfaad6.jp2/6786,2759,130,406/full/0/default.jpg)<p>Paleys des Konings  v Kranganoor.</p>
 
 
 ![](https://service.archief.nl/iip/iipsrv?IIIF=/1f/09/5e/1a/d1/19/49/eb/b0/7b/2f/cf/d8/ac/a2/cb/dbbfd61f-a4d4-48bb-a0bc-5df321dfaad6.jp2/6689,2857,81,285/full/0/default.jpg)<p>Peringanum</p>
@@ -218,6 +224,22 @@
 
 
 ![](https://service.archief.nl/iip/iipsrv?IIIF=/1f/09/5e/1a/d1/19/49/eb/b0/7b/2f/cf/d8/ac/a2/cb/dbbfd61f-a4d4-48bb-a0bc-5df321dfaad6.jp2/1377,3082,106,116/full/0/default.jpg)<p>Bazaar symbol</p><p>Markt symbol</p>
+
+
+![](https://service.archief.nl/iip/iipsrv?IIIF=/1f/09/5e/1a/d1/19/49/eb/b0/7b/2f/cf/d8/ac/a2/cb/dbbfd61f-a4d4-48bb-a0bc-5df321dfaad6.jp2/1257,3364,90,305/full/0/default.jpg)<p>Chettua</p><p></p>
+<p><a target="_blank" rel="noopener noreferrer nofollow" class="text-blue-500 underline hover:text-blue-600" href="https://en.wikipedia.org/wiki/Chetuva">https://en.wikipedia.org/wiki/Chetuva</a></p>
+
+
+![](https://service.archief.nl/iip/iipsrv?IIIF=/1f/09/5e/1a/d1/19/49/eb/b0/7b/2f/cf/d8/ac/a2/cb/dbbfd61f-a4d4-48bb-a0bc-5df321dfaad6.jp2/1187,3426,68,48/full/0/default.jpg)<p>Roomschekirk</p><p>Roman Catholic church symbol</p>
+
+
+![](https://service.archief.nl/iip/iipsrv?IIIF=/1f/09/5e/1a/d1/19/49/eb/b0/7b/2f/cf/d8/ac/a2/cb/dbbfd61f-a4d4-48bb-a0bc-5df321dfaad6.jp2/1220,3416,39,226/full/0/default.jpg)<p>Roomschekerk</p>
+
+
+![](https://service.archief.nl/iip/iipsrv?IIIF=/1f/09/5e/1a/d1/19/49/eb/b0/7b/2f/cf/d8/ac/a2/cb/dbbfd61f-a4d4-48bb-a0bc-5df321dfaad6.jp2/1222,3694,115,115/full/0/default.jpg)<p>Fort symbol</p>
+
+
+![](https://service.archief.nl/iip/iipsrv?IIIF=/1f/09/5e/1a/d1/19/49/eb/b0/7b/2f/cf/d8/ac/a2/cb/dbbfd61f-a4d4-48bb-a0bc-5df321dfaad6.jp2/16505,4329,217,563/full/0/default.jpg)<p>de Stad Cochim</p>
 
 
 ![](https://service.archief.nl/iip/iipsrv?IIIF=/97/c0/ec/e4/09/d3/4b/46/93/bd/23/f8/ee/9f/d7/37/d0c63a12-663a-478f-a77c-dcfd13f42b3d.jp2/691,3777,133,48/full/0/default.jpg)<p>"Chettua" </p><p><a target="_blank" rel="noopener noreferrer nofollow" class="text-blue-500 underline hover:text-blue-600" href="https://en.wikipedia.org/wiki/Chetuva">https://en.wikipedia.org/wiki/Chetuva</a></p>
