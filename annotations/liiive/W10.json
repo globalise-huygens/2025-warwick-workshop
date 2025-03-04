@@ -1,0 +1,29 @@
+{
+  "id": "https://globalise-huygens.github.io/2025-warwick-workshop/annotations/liiive/W10.json",
+  "type": "AnnotationPage",
+  "items": [
+    {
+      "id": "https://data.globalise.huygens.knaw.nl/manifests/maps/4.VELH/B/B.3/B.3.2/106.json/canvas/p1/82e0cdff-720b-43d7-a2c2-28ef8d69e3d7",
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": [
+        {
+          "created": "2025-03-04T15:42:09.834Z",
+          "creator": "SK",
+          "purpose": "commenting",
+          "type": "TextualBody",
+          "format": "text/html",
+          "value": "<p>Tengepatnam</p><p>Dutch settlement</p><p><a target=\"_blank\" rel=\"noopener noreferrer nofollow\" class=\"text-blue-500 underline hover:text-blue-600\" href=\"https://www.geonames.org/maps/google_8.2403_77.1731.html\"><strong>Thengapattanam</strong></a> </p><p></p>"
+        }
+      ],
+      "target": {
+        "type": "SpecificResource",
+        "source": "https://data.globalise.huygens.knaw.nl/manifests/maps/4.VELH/B/B.3/B.3.2/106.json/canvas/p1",
+        "selector": {
+          "type": "SvgSelector",
+          "value": "<svg><polygon points=\"7743,10206 8122,10067 7780,10310 7758,10284 7758,10284 7758,10284\" /></svg>"
+        }
+      }
+    }
+  ]
+}

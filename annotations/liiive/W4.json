@@ -1,0 +1,672 @@
+{
+  "id": "https://globalise-huygens.github.io/2025-warwick-workshop/annotations/liiive/W4.json",
+  "type": "AnnotationPage",
+  "items": [
+    {
+      "id": "https://data.globalise.huygens.knaw.nl/manifests/maps/4.VEL/C/C.2/C.2.4/algemeen/882.1-882.2.json/canvas/p2/c47b7143-81c2-4175-bf04-30bda344b736",
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": [
+        {
+          "created": "2025-03-04T15:30:02.073Z",
+          "creator": "JD",
+          "purpose": "commenting",
+          "type": "TextualBody",
+          "format": "text/html",
+          "value": "<p>Riv. Coddacherra</p>"
+        }
+      ],
+      "target": "https://data.globalise.huygens.knaw.nl/manifests/maps/4.VEL/C/C.2/C.2.4/algemeen/882.1-882.2.json/canvas/p2#xywh=6248,2072,95,442"
+    },
+    {
+      "id": "https://data.globalise.huygens.knaw.nl/manifests/maps/4.VEL/C/C.2/C.2.4/algemeen/882.1-882.2.json/canvas/p2/08d49ac5-fb74-4dbc-8b5c-9e8e2c0cffd9",
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": [
+        {
+          "created": "2025-03-04T15:30:43.392Z",
+          "creator": "JD",
+          "purpose": "commenting",
+          "type": "TextualBody",
+          "format": "text/html",
+          "value": "<p>Catoer</p>"
+        }
+      ],
+      "target": "https://data.globalise.huygens.knaw.nl/manifests/maps/4.VEL/C/C.2/C.2.4/algemeen/882.1-882.2.json/canvas/p2#xywh=6061,2276,57,137"
+    },
+    {
+      "id": "https://data.globalise.huygens.knaw.nl/manifests/maps/4.VEL/C/C.2/C.2.4/algemeen/882.1-882.2.json/canvas/p2/8819485a-dd15-437a-8e88-8aa7e4dd1ee9",
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": [
+        {
+          "created": "2025-03-04T15:31:23.949Z",
+          "creator": "JD",
+          "purpose": "commenting",
+          "type": "TextualBody",
+          "format": "text/html",
+          "value": "<p>Settlement symbol</p>"
+        }
+      ],
+      "target": {
+        "type": "SpecificResource",
+        "source": "https://data.globalise.huygens.knaw.nl/manifests/maps/4.VEL/C/C.2/C.2.4/algemeen/882.1-882.2.json/canvas/p2",
+        "selector": {
+          "type": "SvgSelector",
+          "value": "<svg><ellipse cx=\"6075\" cy=\"2436\" rx=\"19\" ry=\"22\" /></svg>"
+        }
+      }
+    },
+    {
+      "id": "https://data.globalise.huygens.knaw.nl/manifests/maps/4.VEL/C/C.2/C.2.4/algemeen/882.1-882.2.json/canvas/p2/58023027-0d36-4137-ba2c-a96be3d21e45",
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": [
+        {
+          "created": "2025-03-04T15:31:41.287Z",
+          "creator": "JD",
+          "purpose": "commenting",
+          "type": "TextualBody",
+          "format": "text/html",
+          "value": "<p>Settlement symbol</p>"
+        }
+      ],
+      "target": {
+        "type": "SpecificResource",
+        "source": "https://data.globalise.huygens.knaw.nl/manifests/maps/4.VEL/C/C.2/C.2.4/algemeen/882.1-882.2.json/canvas/p2",
+        "selector": {
+          "type": "SvgSelector",
+          "value": "<svg><ellipse cx=\"6185\" cy=\"2571\" rx=\"25\" ry=\"32\" /></svg>"
+        }
+      }
+    },
+    {
+      "id": "https://data.globalise.huygens.knaw.nl/manifests/maps/4.VEL/C/C.2/C.2.4/algemeen/882.1-882.2.json/canvas/p2/7080f7b6-d1d9-4d10-bcb1-d2b5b7bc6ce6",
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": [
+        {
+          "created": "2025-03-04T15:32:14.107Z",
+          "creator": "JD",
+          "purpose": "commenting",
+          "type": "TextualBody",
+          "format": "text/html",
+          "value": "<p>Cacatoerdi</p>"
+        }
+      ],
+      "target": "https://data.globalise.huygens.knaw.nl/manifests/maps/4.VEL/C/C.2/C.2.4/algemeen/882.1-882.2.json/canvas/p2#xywh=6523,2387,81,273"
+    },
+    {
+      "id": "https://data.globalise.huygens.knaw.nl/manifests/maps/4.VEL/C/C.2/C.2.4/algemeen/882.1-882.2.json/canvas/p2/850834f8-df0b-4336-addd-0cfdf53abdbe",
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": [
+        {
+          "created": "2025-03-04T15:32:26.030Z",
+          "creator": "JD",
+          "purpose": "commenting",
+          "type": "TextualBody",
+          "format": "text/html",
+          "value": "<p>Settlement symbol</p>"
+        }
+      ],
+      "target": {
+        "type": "SpecificResource",
+        "source": "https://data.globalise.huygens.knaw.nl/manifests/maps/4.VEL/C/C.2/C.2.4/algemeen/882.1-882.2.json/canvas/p2",
+        "selector": {
+          "type": "SvgSelector",
+          "value": "<svg><ellipse cx=\"6575\" cy=\"2681\" rx=\"34\" ry=\"26\" /></svg>"
+        }
+      }
+    },
+    {
+      "id": "https://data.globalise.huygens.knaw.nl/manifests/maps/4.VEL/C/C.2/C.2.4/algemeen/882.1-882.2.json/canvas/p2/6f42546d-ef6e-4065-bdae-19ac351e2b11",
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": [
+        {
+          "created": "2025-03-04T15:32:44.254Z",
+          "creator": "JD",
+          "purpose": "commenting",
+          "type": "TextualBody",
+          "format": "text/html",
+          "value": "<p>City symbol</p>"
+        }
+      ],
+      "target": {
+        "type": "SpecificResource",
+        "source": "https://data.globalise.huygens.knaw.nl/manifests/maps/4.VEL/C/C.2/C.2.4/algemeen/882.1-882.2.json/canvas/p2",
+        "selector": {
+          "type": "SvgSelector",
+          "value": "<svg><ellipse cx=\"6848\" cy=\"2708\" rx=\"54\" ry=\"63\" /></svg>"
+        }
+      }
+    },
+    {
+      "id": "https://data.globalise.huygens.knaw.nl/manifests/maps/4.VEL/C/C.2/C.2.4/algemeen/882.1-882.2.json/canvas/p2/e95cbe21-bbbf-4de3-b594-fb863769a866",
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": [
+        {
+          "created": "2025-03-04T15:33:00.016Z",
+          "creator": "JD",
+          "purpose": "commenting",
+          "type": "TextualBody",
+          "format": "text/html",
+          "value": "<p>Pateys</p>"
+        }
+      ],
+      "target": "https://data.globalise.huygens.knaw.nl/manifests/maps/4.VEL/C/C.2/C.2.4/algemeen/882.1-882.2.json/canvas/p2#xywh=6786,2788,62,201"
+    },
+    {
+      "id": "https://data.globalise.huygens.knaw.nl/manifests/maps/4.VEL/C/C.2/C.2.4/algemeen/882.1-882.2.json/canvas/p2/f22dca84-9852-44b9-917c-5055b558707b",
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": [
+        {
+          "created": "2025-03-04T15:33:25.128Z",
+          "creator": "JD",
+          "purpose": "commenting",
+          "type": "TextualBody",
+          "format": "text/html",
+          "value": "<p>Peringanum</p>"
+        },
+        {
+          "created": "2025-03-04T15:53:05.506Z",
+          "creator": "JD",
+          "purpose": "replying",
+          "type": "TextualBody",
+          "format": "text/html",
+          "value": "<p><a target=\"_blank\" rel=\"noopener noreferrer nofollow\" class=\"text-blue-500 underline hover:text-blue-600\" href=\"https://en.wikipedia.org/wiki/Perinjanam#/map/0\">https://en.wikipedia.org/wiki/Perinjanam#/map/0</a></p>"
+        }
+      ],
+      "target": "https://data.globalise.huygens.knaw.nl/manifests/maps/4.VEL/C/C.2/C.2.4/algemeen/882.1-882.2.json/canvas/p2#xywh=6689,2857,81,285"
+    },
+    {
+      "id": "https://data.globalise.huygens.knaw.nl/manifests/maps/4.VEL/C/C.2/C.2.4/algemeen/882.1-882.2.json/canvas/p2/0495992e-0abf-4dfa-9096-ef7f92e815a5",
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": [
+        {
+          "created": "2025-03-04T15:33:38.837Z",
+          "creator": "JD",
+          "purpose": "commenting",
+          "type": "TextualBody",
+          "format": "text/html",
+          "value": "<p>Settlement symbol</p>"
+        }
+      ],
+      "target": {
+        "type": "SpecificResource",
+        "source": "https://data.globalise.huygens.knaw.nl/manifests/maps/4.VEL/C/C.2/C.2.4/algemeen/882.1-882.2.json/canvas/p2",
+        "selector": {
+          "type": "SvgSelector",
+          "value": "<svg><ellipse cx=\"6731\" cy=\"2835\" rx=\"19\" ry=\"46\" /></svg>"
+        }
+      }
+    },
+    {
+      "id": "https://data.globalise.huygens.knaw.nl/manifests/maps/4.VEL/C/C.2/C.2.4/algemeen/882.1-882.2.json/canvas/p2/4b318aa0-01a8-4593-8da7-a37f1d55313e",
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": [
+        {
+          "created": "2025-03-04T15:34:01.229Z",
+          "creator": "JD",
+          "purpose": "commenting",
+          "type": "TextualBody",
+          "format": "text/html",
+          "value": "<p>Fort symbol (? settlement with flag)</p>"
+        }
+      ],
+      "target": {
+        "type": "SpecificResource",
+        "source": "https://data.globalise.huygens.knaw.nl/manifests/maps/4.VEL/C/C.2/C.2.4/algemeen/882.1-882.2.json/canvas/p2",
+        "selector": {
+          "type": "SvgSelector",
+          "value": "<svg><ellipse cx=\"7143\" cy=\"2837\" rx=\"38\" ry=\"40\" /></svg>"
+        }
+      }
+    },
+    {
+      "id": "https://data.globalise.huygens.knaw.nl/manifests/maps/4.VEL/C/C.2/C.2.4/algemeen/882.1-882.2.json/canvas/p2/4da8035c-7887-491e-b28b-48564d6bacc2",
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": [
+        {
+          "created": "2025-03-04T15:34:25.921Z",
+          "creator": "JD",
+          "purpose": "commenting",
+          "type": "TextualBody",
+          "format": "text/html",
+          "value": "<p>Pagood Tirupecola</p>"
+        }
+      ],
+      "target": "https://data.globalise.huygens.knaw.nl/manifests/maps/4.VEL/C/C.2/C.2.4/algemeen/882.1-882.2.json/canvas/p2#xywh=7022,2936,101,428"
+    },
+    {
+      "id": "https://data.globalise.huygens.knaw.nl/manifests/maps/4.VEL/C/C.2/C.2.4/algemeen/882.1-882.2.json/canvas/p2/78088209-c904-4162-be8e-257202436873",
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": [
+        {
+          "created": "2025-03-04T15:34:39.169Z",
+          "creator": "JD",
+          "purpose": "commenting",
+          "type": "TextualBody",
+          "format": "text/html",
+          "value": "<p>Pagood symbol</p><p>Pagoda symbol</p>"
+        }
+      ],
+      "target": {
+        "type": "SpecificResource",
+        "source": "https://data.globalise.huygens.knaw.nl/manifests/maps/4.VEL/C/C.2/C.2.4/algemeen/882.1-882.2.json/canvas/p2",
+        "selector": {
+          "type": "SvgSelector",
+          "value": "<svg><ellipse cx=\"7072\" cy=\"2901\" rx=\"37\" ry=\"59\" /></svg>"
+        }
+      }
+    },
+    {
+      "id": "https://data.globalise.huygens.knaw.nl/manifests/maps/4.VEL/C/C.2/C.2.4/algemeen/882.1-882.2.json/canvas/p2/fa7f443a-8863-419d-b629-9dba038ea3a7",
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": [
+        {
+          "created": "2025-03-04T15:35:04.712Z",
+          "creator": "JD",
+          "purpose": "commenting",
+          "type": "TextualBody",
+          "format": "text/html",
+          "value": "<p>PAPONETTY</p>"
+        }
+      ],
+      "target": "https://data.globalise.huygens.knaw.nl/manifests/maps/4.VEL/C/C.2/C.2.4/algemeen/882.1-882.2.json/canvas/p2#xywh=7172,2747,65,409"
+    },
+    {
+      "id": "https://data.globalise.huygens.knaw.nl/manifests/maps/4.VEL/C/C.2/C.2.4/algemeen/882.1-882.2.json/canvas/p2/03f0aa24-083a-4797-b637-fcd408efa733",
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": [
+        {
+          "created": "2025-03-04T15:36:26.385Z",
+          "creator": "JD",
+          "purpose": "commenting",
+          "type": "TextualBody",
+          "format": "text/html",
+          "value": "<p>Spruyt Poekotte</p>"
+        }
+      ],
+      "target": {
+        "type": "SpecificResource",
+        "source": "https://data.globalise.huygens.knaw.nl/manifests/maps/4.VEL/C/C.2/C.2.4/algemeen/882.1-882.2.json/canvas/p2",
+        "selector": {
+          "type": "SvgSelector",
+          "value": "<svg><polygon points=\"7219,2237 7360,2545 7360,2545 7315,2581 7154,2270 7154,2270 7154,2270 7158,2273 7158,2273 7158,2273\" /></svg>"
+        }
+      }
+    },
+    {
+      "id": "https://data.globalise.huygens.knaw.nl/manifests/maps/4.VEL/C/C.2/C.2.4/algemeen/882.1-882.2.json/canvas/p2/28749f72-bd6f-4090-82f2-02a5ca8e6377",
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": [
+        {
+          "created": "2025-03-04T15:37:31.993Z",
+          "creator": "JD",
+          "purpose": "commenting",
+          "type": "TextualBody",
+          "format": "text/html",
+          "value": "<p>Madelgam</p>"
+        }
+      ],
+      "target": "https://data.globalise.huygens.knaw.nl/manifests/maps/4.VEL/C/C.2/C.2.4/algemeen/882.1-882.2.json/canvas/p2#xywh=7474,2786,92,288"
+    },
+    {
+      "id": "https://data.globalise.huygens.knaw.nl/manifests/maps/4.VEL/C/C.2/C.2.4/algemeen/882.1-882.2.json/canvas/p2/b5674e61-5a77-4004-b996-c94de63e3fcb",
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": [
+        {
+          "created": "2025-03-04T15:37:43.820Z",
+          "creator": "JD",
+          "purpose": "commenting",
+          "type": "TextualBody",
+          "format": "text/html",
+          "value": "<p>Settlement symbol</p>"
+        }
+      ],
+      "target": {
+        "type": "SpecificResource",
+        "source": "https://data.globalise.huygens.knaw.nl/manifests/maps/4.VEL/C/C.2/C.2.4/algemeen/882.1-882.2.json/canvas/p2",
+        "selector": {
+          "type": "SvgSelector",
+          "value": "<svg><ellipse cx=\"7520\" cy=\"2681\" rx=\"26\" ry=\"32\" /></svg>"
+        }
+      }
+    },
+    {
+      "id": "https://data.globalise.huygens.knaw.nl/manifests/maps/4.VEL/C/C.2/C.2.4/algemeen/882.1-882.2.json/canvas/p2/ff24a1e3-5628-4b52-b96d-e2f335a648b9",
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": [
+        {
+          "created": "2025-03-04T15:40:48.205Z",
+          "creator": "JD",
+          "purpose": "commenting",
+          "type": "TextualBody",
+          "format": "text/html",
+          "value": "<p>'t Eyl. Pariniatoetoerdoe</p>"
+        }
+      ],
+      "target": "https://data.globalise.huygens.knaw.nl/manifests/maps/4.VEL/C/C.2/C.2.4/algemeen/882.1-882.2.json/canvas/p2#xywh=7082,2260,64,531"
+    },
+    {
+      "id": "https://data.globalise.huygens.knaw.nl/manifests/maps/4.VEL/C/C.2/C.2.4/algemeen/882.1-882.2.json/canvas/p2/dac71726-ed52-4e54-94f9-4dcf5359263f",
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": [
+        {
+          "created": "2025-03-04T15:41:04.022Z",
+          "creator": "JD",
+          "purpose": "commenting",
+          "type": "TextualBody",
+          "format": "text/html",
+          "value": "<p>'t Eyland Natoetoeroedoe</p>"
+        }
+      ],
+      "target": "https://data.globalise.huygens.knaw.nl/manifests/maps/4.VEL/C/C.2/C.2.4/algemeen/882.1-882.2.json/canvas/p2#xywh=6880,2086,59,563"
+    },
+    {
+      "id": "https://data.globalise.huygens.knaw.nl/manifests/maps/4.VEL/C/C.2/C.2.4/algemeen/882.1-882.2.json/canvas/p2/828b8e5c-f226-41bf-a032-1c05ddd2dada",
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": [
+        {
+          "created": "2025-03-04T15:45:52.108Z",
+          "creator": "JD",
+          "purpose": "commenting",
+          "type": "TextualBody",
+          "format": "text/html",
+          "value": "<p>Moendichery</p>"
+        }
+      ],
+      "target": "https://data.globalise.huygens.knaw.nl/manifests/maps/4.VEL/C/C.2/C.2.4/algemeen/882.1-882.2.json/canvas/p2#xywh=13622,3537,55,251"
+    },
+    {
+      "id": "https://data.globalise.huygens.knaw.nl/manifests/maps/4.VEL/C/C.2/C.2.4/algemeen/882.1-882.2.json/canvas/p2/1335e3ac-258d-46ed-a191-d08c84f6fd8c",
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": [
+        {
+          "created": "2025-03-04T15:46:09.212Z",
+          "creator": "JD",
+          "purpose": "commenting",
+          "type": "TextualBody",
+          "format": "text/html",
+          "value": "<p>Pagood Manielle</p>"
+        }
+      ],
+      "target": "https://data.globalise.huygens.knaw.nl/manifests/maps/4.VEL/C/C.2/C.2.4/algemeen/882.1-882.2.json/canvas/p2#xywh=13512,3621,104,189"
+    },
+    {
+      "id": "https://data.globalise.huygens.knaw.nl/manifests/maps/4.VEL/C/C.2/C.2.4/algemeen/882.1-882.2.json/canvas/p2/7ce6ce22-2b68-486f-b882-414ab6f72d9b",
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": [
+        {
+          "created": "2025-03-04T15:46:22.078Z",
+          "creator": "JD",
+          "purpose": "commenting",
+          "type": "TextualBody",
+          "format": "text/html",
+          "value": "<p>Pagoda symbol</p>"
+        }
+      ],
+      "target": {
+        "type": "SpecificResource",
+        "source": "https://data.globalise.huygens.knaw.nl/manifests/maps/4.VEL/C/C.2/C.2.4/algemeen/882.1-882.2.json/canvas/p2",
+        "selector": {
+          "type": "SvgSelector",
+          "value": "<svg><ellipse cx=\"13581\" cy=\"3598\" rx=\"29\" ry=\"32\" /></svg>"
+        }
+      }
+    },
+    {
+      "id": "https://data.globalise.huygens.knaw.nl/manifests/maps/4.VEL/C/C.2/C.2.4/algemeen/882.1-882.2.json/canvas/p2/d5ab6880-a0da-4bdd-ad7c-99ea046f3721",
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": [
+        {
+          "created": "2025-03-04T15:48:03.884Z",
+          "creator": "JD",
+          "purpose": "commenting",
+          "type": "TextualBody",
+          "format": "text/html",
+          "value": "<p>Tolhuys van Dooykouw</p>"
+        }
+      ],
+      "target": "https://data.globalise.huygens.knaw.nl/manifests/maps/4.VEL/C/C.2/C.2.4/algemeen/882.1-882.2.json/canvas/p2#xywh=2667,1977,132,448"
+    },
+    {
+      "id": "https://data.globalise.huygens.knaw.nl/manifests/maps/4.VEL/C/C.2/C.2.4/algemeen/882.1-882.2.json/canvas/p2/f2e9e63a-9368-4569-b4af-c5fbebd30cb3",
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": [
+        {
+          "created": "2025-03-04T15:48:15.441Z",
+          "creator": "JD",
+          "purpose": "commenting",
+          "type": "TextualBody",
+          "format": "text/html",
+          "value": "<p>Dooykouw</p>"
+        }
+      ],
+      "target": "https://data.globalise.huygens.knaw.nl/manifests/maps/4.VEL/C/C.2/C.2.4/algemeen/882.1-882.2.json/canvas/p2#xywh=2479,2148,113,207"
+    },
+    {
+      "id": "https://data.globalise.huygens.knaw.nl/manifests/maps/4.VEL/C/C.2/C.2.4/algemeen/882.1-882.2.json/canvas/p2/87434823-5b55-4efd-9fbc-101e4802f791",
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": [
+        {
+          "created": "2025-03-04T15:48:31.044Z",
+          "creator": "JD",
+          "purpose": "commenting",
+          "type": "TextualBody",
+          "format": "text/html",
+          "value": "<p>Tolhuys symbol</p><p>Tollhouse symbol</p>"
+        }
+      ],
+      "target": {
+        "type": "SpecificResource",
+        "source": "https://data.globalise.huygens.knaw.nl/manifests/maps/4.VEL/C/C.2/C.2.4/algemeen/882.1-882.2.json/canvas/p2",
+        "selector": {
+          "type": "SvgSelector",
+          "value": "<svg><ellipse cx=\"2734\" cy=\"2452\" rx=\"33\" ry=\"28\" /></svg>"
+        }
+      }
+    },
+    {
+      "id": "https://data.globalise.huygens.knaw.nl/manifests/maps/4.VEL/C/C.2/C.2.4/algemeen/882.1-882.2.json/canvas/p2/3c8abd77-5297-4c43-82a2-7e078b3a9cb0",
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": [
+        {
+          "created": "2025-03-04T15:48:43.496Z",
+          "creator": "JD",
+          "purpose": "commenting",
+          "type": "TextualBody",
+          "format": "text/html",
+          "value": "<p>Settlement symbol</p>"
+        }
+      ],
+      "target": {
+        "type": "SpecificResource",
+        "source": "https://data.globalise.huygens.knaw.nl/manifests/maps/4.VEL/C/C.2/C.2.4/algemeen/882.1-882.2.json/canvas/p2",
+        "selector": {
+          "type": "SvgSelector",
+          "value": "<svg><ellipse cx=\"2527\" cy=\"2389\" rx=\"30\" ry=\"22\" /></svg>"
+        }
+      }
+    },
+    {
+      "id": "https://data.globalise.huygens.knaw.nl/manifests/maps/4.VEL/C/C.2/C.2.4/algemeen/882.1-882.2.json/canvas/p2/b98e3acd-0f4d-4165-818e-87449f404e00",
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": [
+        {
+          "created": "2025-03-04T15:49:19.370Z",
+          "creator": "JD",
+          "purpose": "commenting",
+          "type": "TextualBody",
+          "format": "text/html",
+          "value": "<p>Madanpalli</p>"
+        }
+      ],
+      "target": "https://data.globalise.huygens.knaw.nl/manifests/maps/4.VEL/C/C.2/C.2.4/algemeen/882.1-882.2.json/canvas/p2#xywh=3439,2659,84,276"
+    },
+    {
+      "id": "https://data.globalise.huygens.knaw.nl/manifests/maps/4.VEL/C/C.2/C.2.4/algemeen/882.1-882.2.json/canvas/p2/b0943060-87b2-4338-b4be-167f06e9cf5f",
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": [
+        {
+          "created": "2025-03-04T15:49:43.483Z",
+          "creator": "JD",
+          "purpose": "commenting",
+          "type": "TextualBody",
+          "format": "text/html",
+          "value": "<p>European fort symbol</p>"
+        }
+      ],
+      "target": "https://data.globalise.huygens.knaw.nl/manifests/maps/4.VEL/C/C.2/C.2.4/algemeen/882.1-882.2.json/canvas/p2#xywh=2959,2072,92,118"
+    },
+    {
+      "id": "https://data.globalise.huygens.knaw.nl/manifests/maps/4.VEL/C/C.2/C.2.4/algemeen/882.1-882.2.json/canvas/p2/0b63aa50-92e8-49c2-a394-c8c46b7405e3",
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": [
+        {
+          "created": "2025-03-04T15:50:00.200Z",
+          "creator": "JD",
+          "purpose": "commenting",
+          "type": "TextualBody",
+          "format": "text/html",
+          "value": "<p>Pagger des Konings van Cochin</p>"
+        }
+      ],
+      "target": "https://data.globalise.huygens.knaw.nl/manifests/maps/4.VEL/C/C.2/C.2.4/algemeen/882.1-882.2.json/canvas/p2#xywh=2944,1368,144,706"
+    },
+    {
+      "id": "https://data.globalise.huygens.knaw.nl/manifests/maps/4.VEL/C/C.2/C.2.4/algemeen/882.1-882.2.json/canvas/p2/51151b85-3f8d-418f-aac4-a1c318a61a34",
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": [
+        {
+          "created": "2025-03-04T15:50:36.412Z",
+          "creator": "JD",
+          "purpose": "commenting",
+          "type": "TextualBody",
+          "format": "text/html",
+          "value": "<p>Tolhuys d. K. v. C.</p>"
+        }
+      ],
+      "target": "https://data.globalise.huygens.knaw.nl/manifests/maps/4.VEL/C/C.2/C.2.4/algemeen/882.1-882.2.json/canvas/p2#xywh=3385,2110,65,326"
+    },
+    {
+      "id": "https://data.globalise.huygens.knaw.nl/manifests/maps/4.VEL/C/C.2/C.2.4/algemeen/882.1-882.2.json/canvas/p2/732363e0-5daf-4155-9431-c82c83d3da16",
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": [
+        {
+          "created": "2025-03-04T15:50:54.494Z",
+          "creator": "JD",
+          "purpose": "commenting",
+          "type": "TextualBody",
+          "format": "text/html",
+          "value": "<p>Tolhuys symbol</p><p>Tollhouse symbol</p>"
+        }
+      ],
+      "target": {
+        "type": "SpecificResource",
+        "source": "https://data.globalise.huygens.knaw.nl/manifests/maps/4.VEL/C/C.2/C.2.4/algemeen/882.1-882.2.json/canvas/p2",
+        "selector": {
+          "type": "SvgSelector",
+          "value": "<svg><ellipse cx=\"3424\" cy=\"2462\" rx=\"27\" ry=\"28\" /></svg>"
+        }
+      }
+    },
+    {
+      "id": "https://data.globalise.huygens.knaw.nl/manifests/maps/4.VEL/C/C.2/C.2.4/algemeen/882.1-882.2.json/canvas/p2/dd7c56e5-0c26-4316-88c0-6860840bf59e",
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": [
+        {
+          "created": "2025-03-04T15:51:37.936Z",
+          "creator": "JD",
+          "purpose": "commenting",
+          "type": "TextualBody",
+          "format": "text/html",
+          "value": "<p>Paleys d. K. v. C.</p>"
+        }
+      ],
+      "target": "https://data.globalise.huygens.knaw.nl/manifests/maps/4.VEL/C/C.2/C.2.4/algemeen/882.1-882.2.json/canvas/p2#xywh=3500,2041,79,334"
+    },
+    {
+      "id": "https://data.globalise.huygens.knaw.nl/manifests/maps/4.VEL/C/C.2/C.2.4/algemeen/882.1-882.2.json/canvas/p2/b4295bfd-b4e4-41c7-9198-f0027c887ac3",
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": [
+        {
+          "created": "2025-03-04T15:51:46.431Z",
+          "creator": "JD",
+          "purpose": "commenting",
+          "type": "TextualBody",
+          "format": "text/html",
+          "value": "<p>Palace Symbol</p>"
+        }
+      ],
+      "target": "https://data.globalise.huygens.knaw.nl/manifests/maps/4.VEL/C/C.2/C.2.4/algemeen/882.1-882.2.json/canvas/p2#xywh=3503,2376,72,103"
+    },
+    {
+      "id": "https://data.globalise.huygens.knaw.nl/manifests/maps/4.VEL/C/C.2/C.2.4/algemeen/882.1-882.2.json/canvas/p2/584389b5-b674-4140-bd54-6e6013788cc7",
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": [
+        {
+          "created": "2025-03-04T15:58:51.011Z",
+          "creator": "JD",
+          "purpose": "commenting",
+          "type": "TextualBody",
+          "format": "text/html",
+          "value": "<p>Bazaar</p><p>Markt</p>"
+        }
+      ],
+      "target": "https://data.globalise.huygens.knaw.nl/manifests/maps/4.VEL/C/C.2/C.2.4/algemeen/882.1-882.2.json/canvas/p2#xywh=1391,3207,94,166"
+    },
+    {
+      "id": "https://data.globalise.huygens.knaw.nl/manifests/maps/4.VEL/C/C.2/C.2.4/algemeen/882.1-882.2.json/canvas/p2/80875e5d-e681-4a38-9956-b2c1ba9e0d1f",
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": [
+        {
+          "created": "2025-03-04T15:59:06.945Z",
+          "creator": "JD",
+          "purpose": "commenting",
+          "type": "TextualBody",
+          "format": "text/html",
+          "value": "<p>Bazaar symbol</p><p>Markt symbol</p>"
+        }
+      ],
+      "target": {
+        "type": "SpecificResource",
+        "source": "https://data.globalise.huygens.knaw.nl/manifests/maps/4.VEL/C/C.2/C.2.4/algemeen/882.1-882.2.json/canvas/p2",
+        "selector": {
+          "type": "SvgSelector",
+          "value": "<svg><ellipse cx=\"1430\" cy=\"3140\" rx=\"53\" ry=\"58\" /></svg>"
+        }
+      }
+    }
+  ]
+}

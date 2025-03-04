@@ -1,0 +1,29 @@
+{
+  "id": "https://globalise-huygens.github.io/2025-warwick-workshop/annotations/liiive/W6.json",
+  "type": "AnnotationPage",
+  "items": [
+    {
+      "id": "https://data.globalise.huygens.knaw.nl/manifests/maps/4.VEL/C/C.2/C.2.4/algemeen/884.json/canvas/p1/376bf339-de82-4c17-8d76-aaab3edb3af2",
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": [
+        {
+          "created": "2025-03-04T15:38:15.570Z",
+          "creator": "Matt Bliss",
+          "purpose": "commenting",
+          "type": "TextualBody",
+          "format": "text/html",
+          "value": "<p>\"Chettua\" </p><p><a target=\"_blank\" rel=\"noopener noreferrer nofollow\" class=\"text-blue-500 underline hover:text-blue-600\" href=\"https://en.wikipedia.org/wiki/Chetuva\">https://en.wikipedia.org/wiki/Chetuva</a></p>"
+        }
+      ],
+      "target": {
+        "type": "SpecificResource",
+        "source": "https://data.globalise.huygens.knaw.nl/manifests/maps/4.VEL/C/C.2/C.2.4/algemeen/884.json/canvas/p1",
+        "selector": {
+          "type": "SvgSelector",
+          "value": "<svg><polygon points=\"691,3816 693,3777 824,3791 824,3825 824,3825 824,3825\" /></svg>"
+        }
+      }
+    }
+  ]
+}

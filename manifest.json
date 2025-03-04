@@ -86,6 +86,17 @@
             }
           ]
         }
+      ],
+      "annotations": [
+        {
+          "id": "https://globalise-huygens.github.io/2025-warwick-workshop/annotations/liiive/W1.json",
+          "label": {
+            "en": [
+              "Georeferencing Annotations made with Liiive"
+            ]
+          },
+          "type": "AnnotationPage"
+        }
       ]
     },
     {
@@ -146,24 +157,24 @@
               "coordinates": [
                 [
                   [
-                    72.174510147,
-                    14.826659512
+                    71.942898508,
+                    15.140129323
                   ],
                   [
-                    72.39184761,
-                    6.648117209
+                    72.204553778,
+                    6.674819646
                   ],
                   [
-                    84.409168256,
-                    6.888945089
+                    84.520463234,
+                    6.652250868
                   ],
                   [
-                    84.150258232,
-                    15.069287496
+                    84.216189944,
+                    15.120362588
                   ],
                   [
-                    72.174510147,
-                    14.826659512
+                    71.942898508,
+                    15.140129323
                   ]
                 ]
               ]
@@ -372,6 +383,17 @@
             }
           ]
         }
+      ],
+      "annotations": [
+        {
+          "id": "https://globalise-huygens.github.io/2025-warwick-workshop/annotations/liiive/W4.json",
+          "label": {
+            "en": [
+              "Georeferencing Annotations made with Liiive"
+            ]
+          },
+          "type": "AnnotationPage"
+        }
       ]
     },
     {
@@ -526,6 +548,17 @@
             }
           ]
         }
+      ],
+      "annotations": [
+        {
+          "id": "https://globalise-huygens.github.io/2025-warwick-workshop/annotations/liiive/W6.json",
+          "label": {
+            "en": [
+              "Georeferencing Annotations made with Liiive"
+            ]
+          },
+          "type": "AnnotationPage"
+        }
       ]
     },
     {
@@ -602,6 +635,17 @@
               "target": "https://data.globalise.huygens.knaw.nl/manifests/maps/4.VELH/B/B.3/B.3.10/153.json/canvas/p1"
             }
           ]
+        }
+      ],
+      "annotations": [
+        {
+          "id": "https://globalise-huygens.github.io/2025-warwick-workshop/annotations/liiive/W7.json",
+          "label": {
+            "en": [
+              "Georeferencing Annotations made with Liiive"
+            ]
+          },
+          "type": "AnnotationPage"
         }
       ]
     },
@@ -818,6 +862,41 @@
           }
         }
       ],
+      "navPlace": {
+        "type": "FeatureCollection",
+        "features": [
+          {
+            "type": "Feature",
+            "geometry": {
+              "type": "Polygon",
+              "coordinates": [
+                [
+                  [
+                    71.059710599,
+                    17.180179436
+                  ],
+                  [
+                    71.635657322,
+                    7.521459836
+                  ],
+                  [
+                    78.885796356,
+                    6.502289999
+                  ],
+                  [
+                    78.203615989,
+                    16.263383148
+                  ],
+                  [
+                    71.059710599,
+                    17.180179436
+                  ]
+                ]
+              ]
+            }
+          }
+        ]
+      },
       "items": [
         {
           "id": "https://globalise-huygens.github.io/2025-warwick-workshop/manifest.json/W10/p1/page",
@@ -844,6 +923,26 @@
               "target": "https://data.globalise.huygens.knaw.nl/manifests/maps/4.VELH/B/B.3/B.3.2/106.json/canvas/p1"
             }
           ]
+        }
+      ],
+      "annotations": [
+        {
+          "id": "https://globalise-huygens.github.io/2025-warwick-workshop/annotations/georeferencing/W10.json",
+          "label": {
+            "en": [
+              "Georeferencing Annotations made with Allmaps"
+            ]
+          },
+          "type": "AnnotationPage"
+        },
+        {
+          "id": "https://globalise-huygens.github.io/2025-warwick-workshop/annotations/liiive/W10.json",
+          "label": {
+            "en": [
+              "Georeferencing Annotations made with Liiive"
+            ]
+          },
+          "type": "AnnotationPage"
         }
       ]
     }

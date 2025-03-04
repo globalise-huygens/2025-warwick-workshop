@@ -1,0 +1,514 @@
+{
+  "id": "https://globalise-huygens.github.io/2025-warwick-workshop/annotations/liiive/W1.json",
+  "type": "AnnotationPage",
+  "items": [
+    {
+      "id": "https://data.globalise.huygens.knaw.nl/manifests/maps/4.VEL/B/B.3/B.3.3/229.json/canvas/p1/acf070e7-db2d-4267-94cf-f0af00268ea7",
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": [
+        {
+          "created": "2025-03-04T15:29:30.100Z",
+          "creator": "Guillermo",
+          "purpose": "commenting",
+          "type": "TextualBody",
+          "format": "text/html",
+          "value": "<p>\"Christen kerk\"</p>"
+        }
+      ],
+      "target": "https://data.globalise.huygens.knaw.nl/manifests/maps/4.VEL/B/B.3/B.3.3/229.json/canvas/p1#xywh=25878,2028,259,45"
+    },
+    {
+      "id": "https://data.globalise.huygens.knaw.nl/manifests/maps/4.VEL/B/B.3/B.3.3/229.json/canvas/p1/e7731207-9dde-4776-969f-9fd6e301d0b1",
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": [
+        {
+          "created": "2025-03-04T15:30:13.383Z",
+          "creator": "Guillermo",
+          "purpose": "commenting",
+          "type": "TextualBody",
+          "format": "text/html",
+          "value": "<p>#Church</p>"
+        }
+      ],
+      "target": "https://data.globalise.huygens.knaw.nl/manifests/maps/4.VEL/B/B.3/B.3.3/229.json/canvas/p1#xywh=26139,2028,96,87"
+    },
+    {
+      "id": "https://data.globalise.huygens.knaw.nl/manifests/maps/4.VEL/B/B.3/B.3.3/229.json/canvas/p1/bd3a9274-4bd5-46cf-a5ad-4d8f4499355e",
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": [
+        {
+          "created": "2025-03-04T15:31:12.577Z",
+          "creator": "Guillermo",
+          "purpose": "commenting",
+          "type": "TextualBody",
+          "format": "text/html",
+          "value": "<p>\"pagood\" </p><p>#pagoda</p>"
+        }
+      ],
+      "target": "https://data.globalise.huygens.knaw.nl/manifests/maps/4.VEL/B/B.3/B.3.3/229.json/canvas/p1#xywh=26320,1953,138,147"
+    },
+    {
+      "id": "https://data.globalise.huygens.knaw.nl/manifests/maps/4.VEL/B/B.3/B.3.3/229.json/canvas/p1/59d7be12-8fc9-43b3-ae4d-eae8859e1ea1",
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": [
+        {
+          "created": "2025-03-04T15:31:20.293Z",
+          "creator": "Guillermo",
+          "purpose": "commenting",
+          "type": "TextualBody",
+          "format": "text/html",
+          "value": "<p>\"pagood\" </p><p>#pagoda</p>"
+        }
+      ],
+      "target": "https://data.globalise.huygens.knaw.nl/manifests/maps/4.VEL/B/B.3/B.3.3/229.json/canvas/p1#xywh=26295,1805,117,130"
+    },
+    {
+      "id": "https://data.globalise.huygens.knaw.nl/manifests/maps/4.VEL/B/B.3/B.3.3/229.json/canvas/p1/32b9e5b6-cbb5-4e8e-aacc-86bc97e06ccf",
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": [
+        {
+          "created": "2025-03-04T15:34:00.252Z",
+          "creator": "Guillermo",
+          "purpose": "commenting",
+          "type": "TextualBody",
+          "format": "text/html",
+          "value": "<p>#Pagoda</p>"
+        }
+      ],
+      "target": "https://data.globalise.huygens.knaw.nl/manifests/maps/4.VEL/B/B.3/B.3.3/229.json/canvas/p1#xywh=26040,2124,112,65"
+    },
+    {
+      "id": "https://data.globalise.huygens.knaw.nl/manifests/maps/4.VEL/B/B.3/B.3.3/229.json/canvas/p1/4e505090-6fa3-4043-b31d-eebef19cafb3",
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": [
+        {
+          "created": "2025-03-04T15:34:16.148Z",
+          "creator": "Guillermo",
+          "purpose": "commenting",
+          "type": "TextualBody",
+          "format": "text/html",
+          "value": "<p>\"pagood\"</p>"
+        }
+      ],
+      "target": "https://data.globalise.huygens.knaw.nl/manifests/maps/4.VEL/B/B.3/B.3.3/229.json/canvas/p1#xywh=25894,2134,127,48"
+    },
+    {
+      "id": "https://data.globalise.huygens.knaw.nl/manifests/maps/4.VEL/B/B.3/B.3.3/229.json/canvas/p1/fda0c9bb-f58e-4a86-834a-0e725cc18af0",
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": [
+        {
+          "created": "2025-03-04T15:31:44.795Z",
+          "creator": "Eloisa",
+          "purpose": "commenting",
+          "type": "TextualBody",
+          "format": "text/html",
+          "value": "<p>Pagoda</p>"
+        }
+      ],
+      "target": {
+        "type": "SpecificResource",
+        "source": "https://data.globalise.huygens.knaw.nl/manifests/maps/4.VEL/B/B.3/B.3.3/229.json/canvas/p1",
+        "selector": {
+          "type": "SvgSelector",
+          "value": "<svg><polygon points=\"21274,1774 21300,1811 21324,1809 21346,1852 21339,1874 21205,1873 21200,1852 21224,1847 21223,1802 21224,1801 21224,1801 21224,1801\" /></svg>"
+        }
+      }
+    },
+    {
+      "id": "https://data.globalise.huygens.knaw.nl/manifests/maps/4.VEL/B/B.3/B.3.3/229.json/canvas/p1/adec2fc7-e876-4490-a0e0-a1c87bde616e",
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": [
+        {
+          "created": "2025-03-04T15:32:39.805Z",
+          "creator": "Eloisa",
+          "purpose": "commenting",
+          "type": "TextualBody",
+          "format": "text/html",
+          "value": "<p>\"Pagood palmely\"</p>"
+        }
+      ],
+      "target": "https://data.globalise.huygens.knaw.nl/manifests/maps/4.VEL/B/B.3/B.3.3/229.json/canvas/p1#xywh=21346,1813,268,79"
+    },
+    {
+      "id": "https://data.globalise.huygens.knaw.nl/manifests/maps/4.VEL/B/B.3/B.3.3/229.json/canvas/p1/8d59ecde-f22d-498a-93bf-55b85e8cef41",
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": [
+        {
+          "created": "2025-03-04T15:33:19.469Z",
+          "creator": "Eloisa",
+          "purpose": "commenting",
+          "type": "TextualBody",
+          "format": "text/html",
+          "value": "<p>#church</p>"
+        }
+      ],
+      "target": "https://data.globalise.huygens.knaw.nl/manifests/maps/4.VEL/B/B.3/B.3.3/229.json/canvas/p1#xywh=21587,1323,167,116"
+    },
+    {
+      "id": "https://data.globalise.huygens.knaw.nl/manifests/maps/4.VEL/B/B.3/B.3.3/229.json/canvas/p1/5265d52b-fdfc-4c4d-a828-62bc7862e514",
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": [
+        {
+          "created": "2025-03-04T15:33:43.386Z",
+          "creator": "Eloisa",
+          "purpose": "commenting",
+          "type": "TextualBody",
+          "format": "text/html",
+          "value": "<p>\"St. Thomees kerk\"</p>"
+        }
+      ],
+      "target": "https://data.globalise.huygens.knaw.nl/manifests/maps/4.VEL/B/B.3/B.3.3/229.json/canvas/p1#xywh=21581,1238,334,88"
+    },
+    {
+      "id": "https://data.globalise.huygens.knaw.nl/manifests/maps/4.VEL/B/B.3/B.3.3/229.json/canvas/p1/3cd3c074-3885-4e5a-86a3-14951f35cf79",
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": [
+        {
+          "created": "2025-03-04T15:34:45.783Z",
+          "creator": "Eloisa",
+          "purpose": "commenting",
+          "type": "TextualBody",
+          "format": "text/html",
+          "value": "<p>#pagoda</p>"
+        }
+      ],
+      "target": "https://data.globalise.huygens.knaw.nl/manifests/maps/4.VEL/B/B.3/B.3.3/229.json/canvas/p1#xywh=21519,1024,156,110"
+    },
+    {
+      "id": "https://data.globalise.huygens.knaw.nl/manifests/maps/4.VEL/B/B.3/B.3.3/229.json/canvas/p1/3216203b-c80a-4ea7-acc3-08caac76b5a9",
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": [
+        {
+          "created": "2025-03-04T15:34:57.516Z",
+          "creator": "Eloisa",
+          "purpose": "commenting",
+          "type": "TextualBody",
+          "format": "text/html",
+          "value": "<p>\"pagood\"</p>"
+        }
+      ],
+      "target": "https://data.globalise.huygens.knaw.nl/manifests/maps/4.VEL/B/B.3/B.3.3/229.json/canvas/p1#xywh=21685,1056,114,63"
+    },
+    {
+      "id": "https://data.globalise.huygens.knaw.nl/manifests/maps/4.VEL/B/B.3/B.3.3/229.json/canvas/p1/38dbb3df-28e0-4cf6-8165-4ac5daf6816f",
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": [
+        {
+          "created": "2025-03-04T15:35:33.508Z",
+          "creator": "Eloisa",
+          "purpose": "commenting",
+          "type": "TextualBody",
+          "format": "text/html",
+          "value": "<p>\"'tclengenoer\"</p>"
+        }
+      ],
+      "target": "https://data.globalise.huygens.knaw.nl/manifests/maps/4.VEL/B/B.3/B.3.3/229.json/canvas/p1#xywh=21470,810,235,97"
+    },
+    {
+      "id": "https://data.globalise.huygens.knaw.nl/manifests/maps/4.VEL/B/B.3/B.3.3/229.json/canvas/p1/76a57f32-4873-418c-ac4b-9af17272658a",
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": [
+        {
+          "created": "2025-03-04T15:35:56.456Z",
+          "creator": "Eloisa",
+          "purpose": "commenting",
+          "type": "TextualBody",
+          "format": "text/html",
+          "value": "<p>#church</p><p></p>"
+        }
+      ],
+      "target": "https://data.globalise.huygens.knaw.nl/manifests/maps/4.VEL/B/B.3/B.3.3/229.json/canvas/p1#xywh=20966,1020,136,88"
+    },
+    {
+      "id": "https://data.globalise.huygens.knaw.nl/manifests/maps/4.VEL/B/B.3/B.3.3/229.json/canvas/p1/3ac9f3bd-0190-402d-9302-e4f882d3c226",
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": [
+        {
+          "created": "2025-03-04T15:32:36.349Z",
+          "creator": "Liz",
+          "purpose": "commenting",
+          "type": "TextualBody",
+          "format": "text/html",
+          "value": "<p>\"fortress\"</p>"
+        },
+        {
+          "created": "2025-03-04T15:37:17.192Z",
+          "creator": "Liz",
+          "purpose": "replying",
+          "type": "TextualBody",
+          "format": "text/html",
+          "value": "<p>#defence</p>"
+        },
+        {
+          "created": "2025-03-04T15:37:28.756Z",
+          "creator": "Liz",
+          "purpose": "replying",
+          "type": "TextualBody",
+          "format": "text/html",
+          "value": "<p>#defence</p>"
+        }
+      ],
+      "target": {
+        "type": "SpecificResource",
+        "source": "https://data.globalise.huygens.knaw.nl/manifests/maps/4.VEL/B/B.3/B.3.3/229.json/canvas/p1",
+        "selector": {
+          "type": "SvgSelector",
+          "value": "<svg><polygon points=\"14443,3815 14469,3799 14475,3797 14608,3811 14606,3862 14419,3849\" /></svg>"
+        }
+      }
+    },
+    {
+      "id": "https://data.globalise.huygens.knaw.nl/manifests/maps/4.VEL/B/B.3/B.3.3/229.json/canvas/p1/6e62ee93-61a3-4cfc-9b17-1f90a19744d1",
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": [
+        {
+          "created": "2025-03-04T15:34:39.351Z",
+          "creator": "Liz",
+          "purpose": "commenting",
+          "type": "TextualBody",
+          "format": "text/html",
+          "value": "<p>\"fortress\"</p>"
+        }
+      ],
+      "target": {
+        "type": "SpecificResource",
+        "source": "https://data.globalise.huygens.knaw.nl/manifests/maps/4.VEL/B/B.3/B.3.3/229.json/canvas/p1",
+        "selector": {
+          "type": "SvgSelector",
+          "value": "<svg><polygon points=\"14252,3948 14286,3934 14286,3934 14393,3940 14390,3999 14234,3988\" /></svg>"
+        }
+      }
+    },
+    {
+      "id": "https://data.globalise.huygens.knaw.nl/manifests/maps/4.VEL/B/B.3/B.3.3/229.json/canvas/p1/4087bf87-3d82-4fe1-a8ab-0e4deba31aee",
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": [
+        {
+          "created": "2025-03-04T15:30:10.521Z",
+          "creator": "Anna Bruins",
+          "purpose": "commenting",
+          "type": "TextualBody",
+          "format": "text/html",
+          "value": "<p>het begin van Teckencoer</p>"
+        }
+      ],
+      "target": "https://data.globalise.huygens.knaw.nl/manifests/maps/4.VEL/B/B.3/B.3.3/229.json/canvas/p1#xywh=18890,2524,979,117"
+    },
+    {
+      "id": "https://data.globalise.huygens.knaw.nl/manifests/maps/4.VEL/B/B.3/B.3.3/229.json/canvas/p1/4a0e31ee-4904-4fce-a4eb-c415094c6cbf",
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": [
+        {
+          "created": "2025-03-04T15:30:37.590Z",
+          "creator": "Anna Bruins",
+          "purpose": "commenting",
+          "type": "TextualBody",
+          "format": "text/html",
+          "value": "<p>'T eijnde van Porka</p>"
+        }
+      ],
+      "target": "https://data.globalise.huygens.knaw.nl/manifests/maps/4.VEL/B/B.3/B.3.3/229.json/canvas/p1#xywh=18791,2771,943,151"
+    },
+    {
+      "id": "https://data.globalise.huygens.knaw.nl/manifests/maps/4.VEL/B/B.3/B.3.3/229.json/canvas/p1/e2096ce7-f44a-4d48-8cee-e7760e8755cf",
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": [
+        {
+          "created": "2025-03-04T15:31:08.073Z",
+          "creator": "Anna Bruins",
+          "purpose": "commenting",
+          "type": "TextualBody",
+          "format": "text/html",
+          "value": "<p>pagood</p>"
+        }
+      ],
+      "target": "https://data.globalise.huygens.knaw.nl/manifests/maps/4.VEL/B/B.3/B.3.3/229.json/canvas/p1#xywh=19654,3029,147,52"
+    },
+    {
+      "id": "https://data.globalise.huygens.knaw.nl/manifests/maps/4.VEL/B/B.3/B.3.3/229.json/canvas/p1/fec4ef57-bd55-4a17-be3d-239c6cfaf07f",
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": [
+        {
+          "created": "2025-03-04T15:31:23.944Z",
+          "creator": "Anna Bruins",
+          "purpose": "commenting",
+          "type": "TextualBody",
+          "format": "text/html",
+          "value": "<p>pagood</p>"
+        }
+      ],
+      "target": "https://data.globalise.huygens.knaw.nl/manifests/maps/4.VEL/B/B.3/B.3.3/229.json/canvas/p1#xywh=19537,3246,174,65"
+    },
+    {
+      "id": "https://data.globalise.huygens.knaw.nl/manifests/maps/4.VEL/B/B.3/B.3.3/229.json/canvas/p1/b776e99f-a0c3-4cee-92dc-ac4617e5a3b0",
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": [
+        {
+          "created": "2025-03-04T15:31:35.894Z",
+          "creator": "Anna Bruins",
+          "purpose": "commenting",
+          "type": "TextualBody",
+          "format": "text/html",
+          "value": "<p>pagood</p>"
+        }
+      ],
+      "target": "https://data.globalise.huygens.knaw.nl/manifests/maps/4.VEL/B/B.3/B.3.3/229.json/canvas/p1#xywh=19544,3327,146,57"
+    },
+    {
+      "id": "https://data.globalise.huygens.knaw.nl/manifests/maps/4.VEL/B/B.3/B.3.3/229.json/canvas/p1/c44afd65-4f66-4ca7-ab0d-3c5acdddf85c",
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": [
+        {
+          "created": "2025-03-04T15:32:13.090Z",
+          "creator": "Anna Bruins",
+          "purpose": "commenting",
+          "type": "TextualBody",
+          "format": "text/html",
+          "value": "<p>\"'t land van Porka\" </p><p>#polity</p><p><a target=\"_blank\" rel=\"noopener noreferrer nofollow\" class=\"text-blue-500 underline hover:text-blue-600\" href=\"https://www.geonames.org/10926331/purakkad.html\">https://www.geonames.org/10926331/purakkad.html</a></p>"
+        }
+      ],
+      "target": "https://data.globalise.huygens.knaw.nl/manifests/maps/4.VEL/B/B.3/B.3.3/229.json/canvas/p1#xywh=20104,3072,434,227"
+    },
+    {
+      "id": "https://data.globalise.huygens.knaw.nl/manifests/maps/4.VEL/B/B.3/B.3.3/229.json/canvas/p1/d977fa96-6cd3-42a2-b9db-21fa5e26c5fe",
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": [
+        {
+          "created": "2025-03-04T15:36:15.810Z",
+          "creator": "Eloisa",
+          "purpose": "commenting",
+          "type": "TextualBody",
+          "format": "text/html",
+          "value": "<p>\"St. Thomees kerk\"</p>"
+        }
+      ],
+      "target": "https://data.globalise.huygens.knaw.nl/manifests/maps/4.VEL/B/B.3/B.3.3/229.json/canvas/p1#xywh=20788,957,308,70"
+    },
+    {
+      "id": "https://data.globalise.huygens.knaw.nl/manifests/maps/4.VEL/B/B.3/B.3.3/229.json/canvas/p1/07063ec4-8936-4522-aa12-6784fd0b2df2",
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": [
+        {
+          "created": "2025-03-04T15:36:40.324Z",
+          "creator": "Eloisa",
+          "purpose": "commenting",
+          "type": "TextualBody",
+          "format": "text/html",
+          "value": "<p>\"Pagood\"</p>"
+        }
+      ],
+      "target": "https://data.globalise.huygens.knaw.nl/manifests/maps/4.VEL/B/B.3/B.3.3/229.json/canvas/p1#xywh=20925,802,172,73"
+    },
+    {
+      "id": "https://data.globalise.huygens.knaw.nl/manifests/maps/4.VEL/B/B.3/B.3.3/229.json/canvas/p1/8f9bb490-6050-4092-a25c-17e49a5bba67",
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": [
+        {
+          "created": "2025-03-04T15:37:46.870Z",
+          "creator": "Eloisa",
+          "purpose": "commenting",
+          "type": "TextualBody",
+          "format": "text/html",
+          "value": "<p>\"Paymes\"</p>"
+        }
+      ],
+      "target": "https://data.globalise.huygens.knaw.nl/manifests/maps/4.VEL/B/B.3/B.3.3/229.json/canvas/p1#xywh=21041,2096,185,106"
+    },
+    {
+      "id": "https://data.globalise.huygens.knaw.nl/manifests/maps/4.VEL/B/B.3/B.3.3/229.json/canvas/p1/762653ee-8fc4-4111-bee0-e629a4b51479",
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": [
+        {
+          "created": "2025-03-04T15:38:13.472Z",
+          "creator": "Guillermo",
+          "purpose": "commenting",
+          "type": "TextualBody",
+          "format": "text/html",
+          "value": "<p>#Castle</p>"
+        }
+      ],
+      "target": "https://data.globalise.huygens.knaw.nl/manifests/maps/4.VEL/B/B.3/B.3.3/229.json/canvas/p1#xywh=26167,2140,99,87"
+    },
+    {
+      "id": "https://data.globalise.huygens.knaw.nl/manifests/maps/4.VEL/B/B.3/B.3.3/229.json/canvas/p1/a1301db1-a609-4efa-b589-53b86220ac87",
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": [
+        {
+          "created": "2025-03-04T15:38:41.687Z",
+          "creator": "Guillermo",
+          "purpose": "commenting",
+          "type": "TextualBody",
+          "format": "text/html",
+          "value": "<p>\"'s Conings E\u00fays\"</p>"
+        }
+      ],
+      "target": "https://data.globalise.huygens.knaw.nl/manifests/maps/4.VEL/B/B.3/B.3.3/229.json/canvas/p1#xywh=26005,2223,242,56"
+    },
+    {
+      "id": "https://data.globalise.huygens.knaw.nl/manifests/maps/4.VEL/B/B.3/B.3.3/229.json/canvas/p1/894202a3-993a-4399-9e10-87d9190cc00e",
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": [
+        {
+          "created": "2025-03-04T15:40:39.462Z",
+          "creator": "Eloisa",
+          "purpose": "commenting",
+          "type": "TextualBody",
+          "format": "text/html",
+          "value": "<p>\"Wagtluys\"</p>"
+        }
+      ],
+      "target": "https://data.globalise.huygens.knaw.nl/manifests/maps/4.VEL/B/B.3/B.3.3/229.json/canvas/p1#xywh=20170,1594,233,93"
+    },
+    {
+      "id": "https://data.globalise.huygens.knaw.nl/manifests/maps/4.VEL/B/B.3/B.3.3/229.json/canvas/p1/18feae1f-6d5a-46a1-8663-a02b7e9189a0",
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": [
+        {
+          "created": "2025-03-04T15:39:02.497Z",
+          "creator": "Liz",
+          "purpose": "commenting",
+          "type": "TextualBody",
+          "format": "text/html",
+          "value": "<p>\"Dieven Eyland\"</p>"
+        }
+      ],
+      "target": {
+        "type": "SpecificResource",
+        "source": "https://data.globalise.huygens.knaw.nl/manifests/maps/4.VEL/B/B.3/B.3.3/229.json/canvas/p1",
+        "selector": {
+          "type": "SvgSelector",
+          "value": "<svg><polygon points=\"14690,4399 14709,4392 14708,4392 14729,4401 14745,4401 14761,4393 14773,4395 14779,4403 14788,4407 14801,4413 14806,4423 14803,4427 14811,4435 14800,4446 14790,4455 14789,4464 14792,4481 14773,4488 14752,4503 14740,4508 14728,4507 14717,4499 14706,4489 14685,4483 14680,4471 14680,4462 14692,4447 14696,4434 14690,4425 14680,4416\" /></svg>"
+        }
+      }
+    }
+  ]
+}

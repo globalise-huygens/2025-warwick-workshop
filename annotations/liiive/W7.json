@@ -1,0 +1,29 @@
+{
+  "id": "https://globalise-huygens.github.io/2025-warwick-workshop/annotations/liiive/W7.json",
+  "type": "AnnotationPage",
+  "items": [
+    {
+      "id": "https://data.globalise.huygens.knaw.nl/manifests/maps/4.VELH/B/B.3/B.3.10/153.json/canvas/p1/2f1a7a0e-325d-4b69-934b-cfbc24e55b57",
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": [
+        {
+          "created": "2025-03-04T15:43:10.481Z",
+          "creator": "Matt Bliss",
+          "purpose": "commenting",
+          "type": "TextualBody",
+          "format": "text/html",
+          "value": "<p>\"Cranganoor Holl.\"</p><p><a target=\"_blank\" rel=\"noopener noreferrer nofollow\" class=\"text-blue-500 underline hover:text-blue-600\" href=\"https://en.wikipedia.org/wiki/Kodungallur\">https://en.wikipedia.org/wiki/Kodungallur</a></p><p><a target=\"_blank\" rel=\"noopener noreferrer nofollow\" class=\"text-blue-500 underline hover:text-blue-600\" href=\"https://www.geonames.org/1266385/kodungallur.html\">https://www.geonames.org/1266385/kodungallur.html</a></p>"
+        }
+      ],
+      "target": {
+        "type": "SpecificResource",
+        "source": "https://data.globalise.huygens.knaw.nl/manifests/maps/4.VELH/B/B.3/B.3.10/153.json/canvas/p1",
+        "selector": {
+          "type": "SvgSelector",
+          "value": "<svg><polygon points=\"4429,511 4429,447 4801,465 4809,523 4518,532 4518,532 4518,532\" /></svg>"
+        }
+      }
+    }
+  ]
+}

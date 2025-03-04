@@ -3,6 +3,29 @@
   "type": "AnnotationPage",
   "items": [
     {
+      "id": "https://data.globalise.huygens.knaw.nl/manifests/maps/4.VEL/B/B.3/B.3.3/231.json/canvas/p1/dbe36625-1bb8-4e27-9eed-b8e1ac8d46cf",
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": [
+        {
+          "created": "2025-03-04T15:29:08.079Z",
+          "creator": "Tom",
+          "purpose": "commenting",
+          "type": "TextualBody",
+          "format": "text/html",
+          "value": "<p>#Cochin</p>"
+        }
+      ],
+      "target": {
+        "type": "SpecificResource",
+        "source": "https://data.globalise.huygens.knaw.nl/manifests/maps/4.VEL/B/B.3/B.3.3/231.json/canvas/p1",
+        "selector": {
+          "type": "SvgSelector",
+          "value": "<svg><polygon points=\"2577,3730 2869,3719 2870,3800 2582,3821 2580,3792\" /></svg>"
+        }
+      }
+    },
+    {
       "id": "https://data.globalise.huygens.knaw.nl/manifests/maps/4.VEL/B/B.3/B.3.3/231.json/canvas/p1/285b8d01-48e5-40a4-a527-ee2ff9a237ce",
       "type": "Annotation",
       "motivation": "commenting",
@@ -49,6 +72,29 @@
       }
     },
     {
+      "id": "https://data.globalise.huygens.knaw.nl/manifests/maps/4.VEL/B/B.3/B.3.3/231.json/canvas/p1/f44a4e17-f98e-4f84-bf61-3be5e0d2965e",
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": [
+        {
+          "created": "2025-03-04T15:32:40.945Z",
+          "creator": "SK",
+          "purpose": "commenting",
+          "type": "TextualBody",
+          "format": "text/html",
+          "value": "<p>\"Crangenor\"</p><p>Dutch settlement</p><p><a target=\"_blank\" rel=\"noopener noreferrer nofollow\" class=\"text-blue-500 underline hover:text-blue-600\" href=\"https://www.geonames.org/1266385/kodungallur.html\">https://www.geonames.org/1266385/kodungallur.html</a></p>"
+        }
+      ],
+      "target": {
+        "type": "SpecificResource",
+        "source": "https://data.globalise.huygens.knaw.nl/manifests/maps/4.VEL/B/B.3/B.3.3/231.json/canvas/p1",
+        "selector": {
+          "type": "SvgSelector",
+          "value": "<svg><polygon points=\"2490,3522 2639,3527 2801,3508 2737,3397 2736,3400 2455,3460 2475,3461 2484,3455 2484,3455 2484,3455\" /></svg>"
+        }
+      }
+    },
+    {
       "id": "https://data.globalise.huygens.knaw.nl/manifests/maps/4.VEL/B/B.3/B.3.3/231.json/canvas/p1/407e123e-a9db-4eef-9e0f-716538c50f19",
       "type": "Annotation",
       "motivation": "commenting",
@@ -86,6 +132,60 @@
         }
       ],
       "target": "https://data.globalise.huygens.knaw.nl/manifests/maps/4.VEL/B/B.3/B.3.3/231.json/canvas/p1#xywh=1051,5746,1526,236"
+    },
+    {
+      "id": "https://data.globalise.huygens.knaw.nl/manifests/maps/4.VEL/B/B.3/B.3.3/231.json/canvas/p1/07ed5f51-c7b5-4222-95f9-45b5d6745957",
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": [
+        {
+          "created": "2025-03-04T15:38:34.394Z",
+          "creator": "Guido",
+          "purpose": "commenting",
+          "type": "TextualBody",
+          "format": "text/html",
+          "value": "<p>Cape Comorin (Kanniyakumari)</p>"
+        },
+        {
+          "created": "2025-03-04T15:40:33.189Z",
+          "creator": "Guido",
+          "purpose": "commenting",
+          "type": "TextualBody",
+          "format": "text/html",
+          "value": "<p>East Cape Comorin</p>"
+        }
+      ],
+      "target": {
+        "type": "SpecificResource",
+        "source": "https://data.globalise.huygens.knaw.nl/manifests/maps/4.VEL/B/B.3/B.3.3/231.json/canvas/p1",
+        "selector": {
+          "type": "SvgSelector",
+          "value": "<svg><polygon points=\"3725,5334 3938,5058 3930,4995 3689,5318 3704,5340 3705,5338 3707,5340 3706,5341 3705,5337 3714,5309\" /></svg>"
+        }
+      }
+    },
+    {
+      "id": "https://data.globalise.huygens.knaw.nl/manifests/maps/4.VEL/B/B.3/B.3.3/231.json/canvas/p1/029e8024-5c2e-4a9d-8b01-fc270479ba86",
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": [
+        {
+          "created": "2025-03-04T15:40:33.189Z",
+          "creator": "Guido",
+          "purpose": "commenting",
+          "type": "TextualBody",
+          "format": "text/html",
+          "value": "<p>Oost Caap Comorin</p>"
+        }
+      ],
+      "target": {
+        "type": "SpecificResource",
+        "source": "https://data.globalise.huygens.knaw.nl/manifests/maps/4.VEL/B/B.3/B.3.3/231.json/canvas/p1",
+        "selector": {
+          "type": "SvgSelector",
+          "value": "<svg><polygon points=\"3830,5323 4023,5025 3976,5014 3794,5317\" /></svg>"
+        }
+      }
     }
   ]
 }
