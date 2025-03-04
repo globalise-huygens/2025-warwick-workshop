@@ -99,6 +99,38 @@
       "target": "https://data.globalise.huygens.knaw.nl/manifests/maps/4.VEL/B/B.3/B.3.3/229.json/canvas/p1#xywh=25894,2134,127,48"
     },
     {
+      "id": "https://data.globalise.huygens.knaw.nl/manifests/maps/4.VEL/B/B.3/B.3.3/229.json/canvas/p1/762653ee-8fc4-4111-bee0-e629a4b51479",
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": [
+        {
+          "created": "2025-03-04T15:38:13.472Z",
+          "creator": "Guillermo",
+          "purpose": "commenting",
+          "type": "TextualBody",
+          "format": "text/html",
+          "value": "<p>#Castle</p>"
+        }
+      ],
+      "target": "https://data.globalise.huygens.knaw.nl/manifests/maps/4.VEL/B/B.3/B.3.3/229.json/canvas/p1#xywh=26167,2140,99,87"
+    },
+    {
+      "id": "https://data.globalise.huygens.knaw.nl/manifests/maps/4.VEL/B/B.3/B.3.3/229.json/canvas/p1/a1301db1-a609-4efa-b589-53b86220ac87",
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": [
+        {
+          "created": "2025-03-04T15:38:41.687Z",
+          "creator": "Guillermo",
+          "purpose": "commenting",
+          "type": "TextualBody",
+          "format": "text/html",
+          "value": "<p>\"'s Conings E\u00fays\"</p>"
+        }
+      ],
+      "target": "https://data.globalise.huygens.knaw.nl/manifests/maps/4.VEL/B/B.3/B.3.3/229.json/canvas/p1#xywh=26005,2223,242,56"
+    },
+    {
       "id": "https://data.globalise.huygens.knaw.nl/manifests/maps/4.VEL/B/B.3/B.3.3/229.json/canvas/p1/fda0c9bb-f58e-4a86-834a-0e725cc18af0",
       "type": "Annotation",
       "motivation": "commenting",
@@ -234,6 +266,70 @@
       "target": "https://data.globalise.huygens.knaw.nl/manifests/maps/4.VEL/B/B.3/B.3.3/229.json/canvas/p1#xywh=20966,1020,136,88"
     },
     {
+      "id": "https://data.globalise.huygens.knaw.nl/manifests/maps/4.VEL/B/B.3/B.3.3/229.json/canvas/p1/d977fa96-6cd3-42a2-b9db-21fa5e26c5fe",
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": [
+        {
+          "created": "2025-03-04T15:36:15.810Z",
+          "creator": "Eloisa",
+          "purpose": "commenting",
+          "type": "TextualBody",
+          "format": "text/html",
+          "value": "<p>\"St. Thomees kerk\"</p>"
+        }
+      ],
+      "target": "https://data.globalise.huygens.knaw.nl/manifests/maps/4.VEL/B/B.3/B.3.3/229.json/canvas/p1#xywh=20788,957,308,70"
+    },
+    {
+      "id": "https://data.globalise.huygens.knaw.nl/manifests/maps/4.VEL/B/B.3/B.3.3/229.json/canvas/p1/07063ec4-8936-4522-aa12-6784fd0b2df2",
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": [
+        {
+          "created": "2025-03-04T15:36:40.324Z",
+          "creator": "Eloisa",
+          "purpose": "commenting",
+          "type": "TextualBody",
+          "format": "text/html",
+          "value": "<p>\"Pagood\"</p>"
+        }
+      ],
+      "target": "https://data.globalise.huygens.knaw.nl/manifests/maps/4.VEL/B/B.3/B.3.3/229.json/canvas/p1#xywh=20925,802,172,73"
+    },
+    {
+      "id": "https://data.globalise.huygens.knaw.nl/manifests/maps/4.VEL/B/B.3/B.3.3/229.json/canvas/p1/8f9bb490-6050-4092-a25c-17e49a5bba67",
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": [
+        {
+          "created": "2025-03-04T15:37:46.870Z",
+          "creator": "Eloisa",
+          "purpose": "commenting",
+          "type": "TextualBody",
+          "format": "text/html",
+          "value": "<p>\"Paymes\"</p>"
+        }
+      ],
+      "target": "https://data.globalise.huygens.knaw.nl/manifests/maps/4.VEL/B/B.3/B.3.3/229.json/canvas/p1#xywh=21041,2096,185,106"
+    },
+    {
+      "id": "https://data.globalise.huygens.knaw.nl/manifests/maps/4.VEL/B/B.3/B.3.3/229.json/canvas/p1/894202a3-993a-4399-9e10-87d9190cc00e",
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": [
+        {
+          "created": "2025-03-04T15:40:39.462Z",
+          "creator": "Eloisa",
+          "purpose": "commenting",
+          "type": "TextualBody",
+          "format": "text/html",
+          "value": "<p>\"Wagtluys\"</p>"
+        }
+      ],
+      "target": "https://data.globalise.huygens.knaw.nl/manifests/maps/4.VEL/B/B.3/B.3.3/229.json/canvas/p1#xywh=20170,1594,233,93"
+    },
+    {
       "id": "https://data.globalise.huygens.knaw.nl/manifests/maps/4.VEL/B/B.3/B.3.3/229.json/canvas/p1/3ac9f3bd-0190-402d-9302-e4f882d3c226",
       "type": "Annotation",
       "motivation": "commenting",
@@ -292,6 +388,29 @@
         "selector": {
           "type": "SvgSelector",
           "value": "<svg><polygon points=\"14252,3948 14286,3934 14286,3934 14393,3940 14390,3999 14234,3988\" /></svg>"
+        }
+      }
+    },
+    {
+      "id": "https://data.globalise.huygens.knaw.nl/manifests/maps/4.VEL/B/B.3/B.3.3/229.json/canvas/p1/18feae1f-6d5a-46a1-8663-a02b7e9189a0",
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": [
+        {
+          "created": "2025-03-04T15:39:02.497Z",
+          "creator": "Liz",
+          "purpose": "commenting",
+          "type": "TextualBody",
+          "format": "text/html",
+          "value": "<p>\"Dieven Eyland\"</p>"
+        }
+      ],
+      "target": {
+        "type": "SpecificResource",
+        "source": "https://data.globalise.huygens.knaw.nl/manifests/maps/4.VEL/B/B.3/B.3.3/229.json/canvas/p1",
+        "selector": {
+          "type": "SvgSelector",
+          "value": "<svg><polygon points=\"14690,4399 14709,4392 14708,4392 14729,4401 14745,4401 14761,4393 14773,4395 14779,4403 14788,4407 14801,4413 14806,4423 14803,4427 14811,4435 14800,4446 14790,4455 14789,4464 14792,4481 14773,4488 14752,4503 14740,4508 14728,4507 14717,4499 14706,4489 14685,4483 14680,4471 14680,4462 14692,4447 14696,4434 14690,4425 14680,4416\" /></svg>"
         }
       }
     },
@@ -392,123 +511,36 @@
       "target": "https://data.globalise.huygens.knaw.nl/manifests/maps/4.VEL/B/B.3/B.3.3/229.json/canvas/p1#xywh=20104,3072,434,227"
     },
     {
-      "id": "https://data.globalise.huygens.knaw.nl/manifests/maps/4.VEL/B/B.3/B.3.3/229.json/canvas/p1/d977fa96-6cd3-42a2-b9db-21fa5e26c5fe",
+      "id": "https://data.globalise.huygens.knaw.nl/manifests/maps/4.VEL/B/B.3/B.3.3/229.json/canvas/p1/f9747646-f4a3-460c-867f-a38f23c7d4fb",
       "type": "Annotation",
       "motivation": "commenting",
       "body": [
         {
-          "created": "2025-03-04T15:36:15.810Z",
-          "creator": "Eloisa",
+          "created": "2025-03-04T16:02:46.648Z",
+          "creator": "Anna Bruins",
           "purpose": "commenting",
           "type": "TextualBody",
           "format": "text/html",
-          "value": "<p>\"St. Thomees kerk\"</p>"
+          "value": "<p>Manamangele</p>"
         }
       ],
-      "target": "https://data.globalise.huygens.knaw.nl/manifests/maps/4.VEL/B/B.3/B.3.3/229.json/canvas/p1#xywh=20788,957,308,70"
+      "target": "https://data.globalise.huygens.knaw.nl/manifests/maps/4.VEL/B/B.3/B.3.3/229.json/canvas/p1#xywh=19951,2607,627,188"
     },
     {
-      "id": "https://data.globalise.huygens.knaw.nl/manifests/maps/4.VEL/B/B.3/B.3.3/229.json/canvas/p1/07063ec4-8936-4522-aa12-6784fd0b2df2",
+      "id": "https://data.globalise.huygens.knaw.nl/manifests/maps/4.VEL/B/B.3/B.3.3/229.json/canvas/p1/0616622f-79dd-4bcb-ba9e-b130655ecefe",
       "type": "Annotation",
       "motivation": "commenting",
       "body": [
         {
-          "created": "2025-03-04T15:36:40.324Z",
-          "creator": "Eloisa",
+          "created": "2025-03-04T16:05:22.459Z",
+          "creator": "Anna Bruins",
           "purpose": "commenting",
           "type": "TextualBody",
           "format": "text/html",
-          "value": "<p>\"Pagood\"</p>"
+          "value": "<p>\"'s Conings woningh\" (the kings residence)</p>"
         }
       ],
-      "target": "https://data.globalise.huygens.knaw.nl/manifests/maps/4.VEL/B/B.3/B.3.3/229.json/canvas/p1#xywh=20925,802,172,73"
-    },
-    {
-      "id": "https://data.globalise.huygens.knaw.nl/manifests/maps/4.VEL/B/B.3/B.3.3/229.json/canvas/p1/8f9bb490-6050-4092-a25c-17e49a5bba67",
-      "type": "Annotation",
-      "motivation": "commenting",
-      "body": [
-        {
-          "created": "2025-03-04T15:37:46.870Z",
-          "creator": "Eloisa",
-          "purpose": "commenting",
-          "type": "TextualBody",
-          "format": "text/html",
-          "value": "<p>\"Paymes\"</p>"
-        }
-      ],
-      "target": "https://data.globalise.huygens.knaw.nl/manifests/maps/4.VEL/B/B.3/B.3.3/229.json/canvas/p1#xywh=21041,2096,185,106"
-    },
-    {
-      "id": "https://data.globalise.huygens.knaw.nl/manifests/maps/4.VEL/B/B.3/B.3.3/229.json/canvas/p1/762653ee-8fc4-4111-bee0-e629a4b51479",
-      "type": "Annotation",
-      "motivation": "commenting",
-      "body": [
-        {
-          "created": "2025-03-04T15:38:13.472Z",
-          "creator": "Guillermo",
-          "purpose": "commenting",
-          "type": "TextualBody",
-          "format": "text/html",
-          "value": "<p>#Castle</p>"
-        }
-      ],
-      "target": "https://data.globalise.huygens.knaw.nl/manifests/maps/4.VEL/B/B.3/B.3.3/229.json/canvas/p1#xywh=26167,2140,99,87"
-    },
-    {
-      "id": "https://data.globalise.huygens.knaw.nl/manifests/maps/4.VEL/B/B.3/B.3.3/229.json/canvas/p1/a1301db1-a609-4efa-b589-53b86220ac87",
-      "type": "Annotation",
-      "motivation": "commenting",
-      "body": [
-        {
-          "created": "2025-03-04T15:38:41.687Z",
-          "creator": "Guillermo",
-          "purpose": "commenting",
-          "type": "TextualBody",
-          "format": "text/html",
-          "value": "<p>\"'s Conings E\u00fays\"</p>"
-        }
-      ],
-      "target": "https://data.globalise.huygens.knaw.nl/manifests/maps/4.VEL/B/B.3/B.3.3/229.json/canvas/p1#xywh=26005,2223,242,56"
-    },
-    {
-      "id": "https://data.globalise.huygens.knaw.nl/manifests/maps/4.VEL/B/B.3/B.3.3/229.json/canvas/p1/894202a3-993a-4399-9e10-87d9190cc00e",
-      "type": "Annotation",
-      "motivation": "commenting",
-      "body": [
-        {
-          "created": "2025-03-04T15:40:39.462Z",
-          "creator": "Eloisa",
-          "purpose": "commenting",
-          "type": "TextualBody",
-          "format": "text/html",
-          "value": "<p>\"Wagtluys\"</p>"
-        }
-      ],
-      "target": "https://data.globalise.huygens.knaw.nl/manifests/maps/4.VEL/B/B.3/B.3.3/229.json/canvas/p1#xywh=20170,1594,233,93"
-    },
-    {
-      "id": "https://data.globalise.huygens.knaw.nl/manifests/maps/4.VEL/B/B.3/B.3.3/229.json/canvas/p1/18feae1f-6d5a-46a1-8663-a02b7e9189a0",
-      "type": "Annotation",
-      "motivation": "commenting",
-      "body": [
-        {
-          "created": "2025-03-04T15:39:02.497Z",
-          "creator": "Liz",
-          "purpose": "commenting",
-          "type": "TextualBody",
-          "format": "text/html",
-          "value": "<p>\"Dieven Eyland\"</p>"
-        }
-      ],
-      "target": {
-        "type": "SpecificResource",
-        "source": "https://data.globalise.huygens.knaw.nl/manifests/maps/4.VEL/B/B.3/B.3.3/229.json/canvas/p1",
-        "selector": {
-          "type": "SvgSelector",
-          "value": "<svg><polygon points=\"14690,4399 14709,4392 14708,4392 14729,4401 14745,4401 14761,4393 14773,4395 14779,4403 14788,4407 14801,4413 14806,4423 14803,4427 14811,4435 14800,4446 14790,4455 14789,4464 14792,4481 14773,4488 14752,4503 14740,4508 14728,4507 14717,4499 14706,4489 14685,4483 14680,4471 14680,4462 14692,4447 14696,4434 14690,4425 14680,4416\" /></svg>"
-        }
-      }
+      "target": "https://data.globalise.huygens.knaw.nl/manifests/maps/4.VEL/B/B.3/B.3.3/229.json/canvas/p1#xywh=22059,3452,285,111"
     }
   ]
 }

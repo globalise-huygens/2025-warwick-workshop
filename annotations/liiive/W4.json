@@ -153,10 +153,10 @@
           "purpose": "commenting",
           "type": "TextualBody",
           "format": "text/html",
-          "value": "<p>Pateys</p>"
+          "value": "<p>Paleys des Konings  v Kranganoor.</p>"
         }
       ],
-      "target": "https://data.globalise.huygens.knaw.nl/manifests/maps/4.VEL/C/C.2/C.2.4/algemeen/882.1-882.2.json/canvas/p2#xywh=6786,2788,62,201"
+      "target": "https://data.globalise.huygens.knaw.nl/manifests/maps/4.VEL/C/C.2/C.2.4/algemeen/882.1-882.2.json/canvas/p2#xywh=6786,2759,130,406"
     },
     {
       "id": "https://data.globalise.huygens.knaw.nl/manifests/maps/4.VEL/C/C.2/C.2.4/algemeen/882.1-882.2.json/canvas/p2/f22dca84-9852-44b9-917c-5055b558707b",
@@ -667,6 +667,101 @@
           "value": "<svg><ellipse cx=\"1430\" cy=\"3140\" rx=\"53\" ry=\"58\" /></svg>"
         }
       }
+    },
+    {
+      "id": "https://data.globalise.huygens.knaw.nl/manifests/maps/4.VEL/C/C.2/C.2.4/algemeen/882.1-882.2.json/canvas/p2/461469aa-eed2-4b8b-ae7b-9a9b7a64c1c8",
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": [
+        {
+          "created": "2025-03-04T16:00:31.168Z",
+          "creator": "JD",
+          "purpose": "commenting",
+          "type": "TextualBody",
+          "format": "text/html",
+          "value": "<p>Chettua</p><p></p>"
+        },
+        {
+          "created": "2025-03-04T16:00:34.808Z",
+          "creator": "JD",
+          "purpose": "replying",
+          "type": "TextualBody",
+          "format": "text/html",
+          "value": "<p><a target=\"_blank\" rel=\"noopener noreferrer nofollow\" class=\"text-blue-500 underline hover:text-blue-600\" href=\"https://en.wikipedia.org/wiki/Chetuva\">https://en.wikipedia.org/wiki/Chetuva</a></p>"
+        }
+      ],
+      "target": "https://data.globalise.huygens.knaw.nl/manifests/maps/4.VEL/C/C.2/C.2.4/algemeen/882.1-882.2.json/canvas/p2#xywh=1257,3364,90,305"
+    },
+    {
+      "id": "https://data.globalise.huygens.knaw.nl/manifests/maps/4.VEL/C/C.2/C.2.4/algemeen/882.1-882.2.json/canvas/p2/c9776f1f-2fe3-4cce-b6cd-cc80e1056aad",
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": [
+        {
+          "created": "2025-03-04T16:00:59.075Z",
+          "creator": "JD",
+          "purpose": "commenting",
+          "type": "TextualBody",
+          "format": "text/html",
+          "value": "<p>Roomschekirk</p><p>Roman Catholic church symbol</p>"
+        }
+      ],
+      "target": {
+        "type": "SpecificResource",
+        "source": "https://data.globalise.huygens.knaw.nl/manifests/maps/4.VEL/C/C.2/C.2.4/algemeen/882.1-882.2.json/canvas/p2",
+        "selector": {
+          "type": "SvgSelector",
+          "value": "<svg><ellipse cx=\"1221\" cy=\"3450\" rx=\"34\" ry=\"24\" /></svg>"
+        }
+      }
+    },
+    {
+      "id": "https://data.globalise.huygens.knaw.nl/manifests/maps/4.VEL/C/C.2/C.2.4/algemeen/882.1-882.2.json/canvas/p2/26d5b3bf-001d-4e8b-acc2-99ac8bb4583b",
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": [
+        {
+          "created": "2025-03-04T16:01:12.947Z",
+          "creator": "JD",
+          "purpose": "commenting",
+          "type": "TextualBody",
+          "format": "text/html",
+          "value": "<p>Roomschekerk</p>"
+        }
+      ],
+      "target": "https://data.globalise.huygens.knaw.nl/manifests/maps/4.VEL/C/C.2/C.2.4/algemeen/882.1-882.2.json/canvas/p2#xywh=1220,3416,39,226"
+    },
+    {
+      "id": "https://data.globalise.huygens.knaw.nl/manifests/maps/4.VEL/C/C.2/C.2.4/algemeen/882.1-882.2.json/canvas/p2/037cf5b8-b059-4cf6-9b53-79e5230ee2db",
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": [
+        {
+          "created": "2025-03-04T16:01:23.197Z",
+          "creator": "JD",
+          "purpose": "commenting",
+          "type": "TextualBody",
+          "format": "text/html",
+          "value": "<p>Fort symbol</p>"
+        }
+      ],
+      "target": "https://data.globalise.huygens.knaw.nl/manifests/maps/4.VEL/C/C.2/C.2.4/algemeen/882.1-882.2.json/canvas/p2#xywh=1222,3694,115,115"
+    },
+    {
+      "id": "https://data.globalise.huygens.knaw.nl/manifests/maps/4.VEL/C/C.2/C.2.4/algemeen/882.1-882.2.json/canvas/p2/16aceb9e-330b-43ce-a2ae-76dbf97308d8",
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": [
+        {
+          "created": "2025-03-04T16:05:04.242Z",
+          "creator": "JD",
+          "purpose": "commenting",
+          "type": "TextualBody",
+          "format": "text/html",
+          "value": "<p>de Stad Cochim</p>"
+        }
+      ],
+      "target": "https://data.globalise.huygens.knaw.nl/manifests/maps/4.VEL/C/C.2/C.2.4/algemeen/882.1-882.2.json/canvas/p2#xywh=16505,4329,217,563"
     }
   ]
 }
