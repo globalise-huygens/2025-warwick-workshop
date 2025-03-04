@@ -3,22 +3,6 @@
   "type": "AnnotationPage",
   "items": [
     {
-      "id": "https://data.globalise.huygens.knaw.nl/manifests/maps/4.VELH/B/B.3/B.3.11/algemeen/156.1-156.2.9.json/canvas/p41/42544c9c-5faf-4cfa-b66e-efa5be5fabde",
-      "type": "Annotation",
-      "motivation": "commenting",
-      "body": [
-        {
-          "created": "2025-03-01T05:56:02.984Z",
-          "creator": "Manjusha",
-          "purpose": "commenting",
-          "type": "TextualBody",
-          "format": "text/html",
-          "value": "<p>#Crangenoor</p><p>Icon: River</p><p>Type_Text: </p><p><a target=\"_blank\" rel=\"noopener noreferrer nofollow\" class=\"text-blue-500 underline hover:text-blue-600\" href=\"https://www.wikidata.org/wiki/Q1006282\">https://www.wikidata.org/wiki/Q1006282</a></p>"
-        }
-      ],
-      "target": "https://data.globalise.huygens.knaw.nl/manifests/maps/4.VELH/B/B.3/B.3.11/algemeen/156.1-156.2.9.json/canvas/p41#xywh=14941,1838,92,426"
-    },
-    {
       "id": "https://data.globalise.huygens.knaw.nl/manifests/maps/4.VELH/B/B.3/B.3.11/algemeen/156.1-156.2.9.json/canvas/p41/cc528cbf-a105-4cc9-bba5-40bbbe9f6fb3",
       "type": "Annotation",
       "motivation": "commenting",
@@ -64,6 +48,30 @@
           "value": "<svg><ellipse cx=\"17448\" cy=\"1379\" rx=\"37\" ry=\"37\" /></svg>"
         }
       }
+    },
+    {
+      "id": "https://data.globalise.huygens.knaw.nl/manifests/maps/4.VELH/B/B.3/B.3.11/algemeen/156.1-156.2.9.json/canvas/p41/42544c9c-5faf-4cfa-b66e-efa5be5fabde",
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": [
+        {
+          "created": "2025-03-01T05:56:02.984Z",
+          "creator": "Manjusha",
+          "purpose": "commenting",
+          "type": "TextualBody",
+          "format": "text/html",
+          "value": "<p>#Crangenoor</p><p>Icon: River</p><p>Type_Text: </p><p><a target=\"_blank\" rel=\"noopener noreferrer nofollow\" class=\"text-blue-500 underline hover:text-blue-600\" href=\"https://www.wikidata.org/wiki/Q1006282\">https://www.wikidata.org/wiki/Q1006282</a></p>"
+        },
+        {
+          "created": "2025-03-03T20:42:30.015Z",
+          "creator": "Leon van Wissen",
+          "purpose": "commenting",
+          "type": "TextualBody",
+          "format": "text/html",
+          "value": "<p>\"Coijlang\"<br>#Dutch flag<br>Nowadays, Coijlang is called Kollam. Not to be confused with Kayamkulam.</p><p><a target=\"_blank\" rel=\"noopener noreferrer nofollow\" class=\"text-blue-500 underline hover:text-blue-600\" href=\"https://en.wikipedia.org/wiki/Kollam\">https://en.wikipedia.org/wiki/Kollam</a></p>"
+        }
+      ],
+      "target": "https://data.globalise.huygens.knaw.nl/manifests/maps/4.VELH/B/B.3/B.3.11/algemeen/156.1-156.2.9.json/canvas/p41#xywh=14941,1838,92,426"
     }
   ]
 }

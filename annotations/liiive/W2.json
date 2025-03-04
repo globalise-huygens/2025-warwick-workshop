@@ -3,6 +3,29 @@
   "type": "AnnotationPage",
   "items": [
     {
+      "id": "https://data.globalise.huygens.knaw.nl/manifests/maps/4.VEL/B/B.3/B.3.3/231.json/canvas/p1/285b8d01-48e5-40a4-a527-ee2ff9a237ce",
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": [
+        {
+          "created": "2025-03-03T20:27:35.960Z",
+          "creator": "Leon van Wissen",
+          "purpose": "commenting",
+          "type": "TextualBody",
+          "format": "text/html",
+          "value": "<p>\"Tutecorijn\"</p>"
+        }
+      ],
+      "target": {
+        "type": "SpecificResource",
+        "source": "https://data.globalise.huygens.knaw.nl/manifests/maps/4.VEL/B/B.3/B.3.3/231.json/canvas/p1",
+        "selector": {
+          "type": "SvgSelector",
+          "value": "<svg><polygon points=\"4151,4522 4088,4562 4334,4750 4362,4714 4343,4687\" /></svg>"
+        }
+      }
+    },
+    {
       "id": "https://data.globalise.huygens.knaw.nl/manifests/maps/4.VEL/B/B.3/B.3.3/231.json/canvas/p1/385f8abe-e036-4822-a264-80feb4a6d895",
       "type": "Annotation",
       "motivation": "commenting",
@@ -63,109 +86,6 @@
         }
       ],
       "target": "https://data.globalise.huygens.knaw.nl/manifests/maps/4.VEL/B/B.3/B.3.3/231.json/canvas/p1#xywh=1051,5746,1526,236"
-    },
-    {
-      "id": "https://data.globalise.huygens.knaw.nl/manifests/maps/4.VEL/B/B.3/B.3.3/231.json/canvas/p1/9b2de300-648d-43bd-a676-ee2f8bcd7ec8",
-      "type": "Annotation",
-      "motivation": "commenting",
-      "body": [
-        {
-          "created": "2025-03-03T20:16:47.193Z",
-          "creator": "Manjusha",
-          "purpose": "commenting",
-          "type": "TextualBody",
-          "format": "text/html",
-          "value": "<p>#Calicoilang </p><p>*Kayamkulam </p><p>@Flag indicating settlement</p><p><a target=\"_blank\" rel=\"noopener noreferrer nofollow\" class=\"text-blue-500 underline hover:text-blue-600\" href=\"https://www.geonames.org/1267360/kayankulam.html\">https://www.geonames.org/1267360/kayankulam.html</a></p>"
-        }
-      ],
-      "target": "https://data.globalise.huygens.knaw.nl/manifests/maps/4.VEL/B/B.3/B.3.3/231.json/canvas/p1#xywh=3180,4321,383,145"
-    },
-    {
-      "id": "https://data.globalise.huygens.knaw.nl/manifests/maps/4.VEL/B/B.3/B.3.3/231.json/canvas/p1/3a8e90fe-cf89-490b-93f3-12610d59ee4c",
-      "type": "Annotation",
-      "motivation": "commenting",
-      "body": [
-        {
-          "created": "2025-03-03T20:23:07.983Z",
-          "creator": "Manjusha",
-          "purpose": "commenting",
-          "type": "TextualBody",
-          "format": "text/html",
-          "value": "<p>Manipoely</p>"
-        }
-      ],
-      "target": "https://data.globalise.huygens.knaw.nl/manifests/maps/4.VEL/B/B.3/B.3.3/231.json/canvas/p1#xywh=3412,4784,207,165"
-    },
-    {
-      "id": "https://data.globalise.huygens.knaw.nl/manifests/maps/4.VEL/B/B.3/B.3.3/231.json/canvas/p1/d50f6772-71f3-4b5b-9430-a3efcb838ae0",
-      "type": "Annotation",
-      "motivation": "commenting",
-      "body": [
-        {
-          "created": "2025-03-03T20:23:30.873Z",
-          "creator": "Manjusha",
-          "purpose": "commenting",
-          "type": "TextualBody",
-          "format": "text/html",
-          "value": "<p>Covaer</p>"
-        }
-      ],
-      "target": "https://data.globalise.huygens.knaw.nl/manifests/maps/4.VEL/B/B.3/B.3.3/231.json/canvas/p1#xywh=3550,5066,126,120"
-    },
-    {
-      "id": "https://data.globalise.huygens.knaw.nl/manifests/maps/4.VEL/B/B.3/B.3.3/231.json/canvas/p1/e841c465-e95e-41ca-82da-92125bd12e69",
-      "type": "Annotation",
-      "motivation": "commenting",
-      "body": [
-        {
-          "created": "2025-03-03T20:26:37.032Z",
-          "creator": "Manjusha",
-          "purpose": "commenting",
-          "type": "TextualBody",
-          "format": "text/html",
-          "value": "<p>Coilan</p><p><a target=\"_blank\" rel=\"noopener noreferrer nofollow\" class=\"text-blue-500 underline hover:text-blue-600\" href=\"https://www.geonames.org/1259091/kollam.html\">https://www.geonames.org/1259091/kollam.html</a></p>"
-        }
-      ],
-      "target": "https://data.globalise.huygens.knaw.nl/manifests/maps/4.VEL/B/B.3/B.3.3/231.json/canvas/p1#xywh=3023,4783,236,121"
-    },
-    {
-      "id": "https://data.globalise.huygens.knaw.nl/manifests/maps/4.VEL/B/B.3/B.3.3/231.json/canvas/p1/c3791429-f55b-44dc-a70d-29b48a15a9d8",
-      "type": "Annotation",
-      "motivation": "commenting",
-      "body": [
-        {
-          "created": "2025-03-03T20:28:52.892Z",
-          "creator": "Manjusha",
-          "purpose": "commenting",
-          "type": "TextualBody",
-          "format": "text/html",
-          "value": "<p>Porka</p><p><a target=\"_blank\" rel=\"noopener noreferrer nofollow\" class=\"text-blue-500 underline hover:text-blue-600\" href=\"https://www.geonames.org/10926331/purakkad.html\">https://www.geonames.org/10926331/purakkad.html</a></p>"
-        }
-      ],
-      "target": "https://data.globalise.huygens.knaw.nl/manifests/maps/4.VEL/B/B.3/B.3.3/231.json/canvas/p1#xywh=3036,4209,265,107"
-    },
-    {
-      "id": "https://data.globalise.huygens.knaw.nl/manifests/maps/4.VEL/B/B.3/B.3.3/231.json/canvas/p1/285b8d01-48e5-40a4-a527-ee2ff9a237ce",
-      "type": "Annotation",
-      "motivation": "commenting",
-      "body": [
-        {
-          "created": "2025-03-03T20:27:35.960Z",
-          "creator": "Leon van Wissen",
-          "purpose": "commenting",
-          "type": "TextualBody",
-          "format": "text/html",
-          "value": "<p>\"Tutecorijn\"</p>"
-        }
-      ],
-      "target": {
-        "type": "SpecificResource",
-        "source": "https://data.globalise.huygens.knaw.nl/manifests/maps/4.VEL/B/B.3/B.3.3/231.json/canvas/p1",
-        "selector": {
-          "type": "SvgSelector",
-          "value": "<svg><polygon points=\"4151,4522 4088,4562 4334,4750 4362,4714 4343,4687\" /></svg>"
-        }
-      }
     }
   ]
 }
