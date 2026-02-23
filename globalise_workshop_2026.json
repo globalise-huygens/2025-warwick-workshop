@@ -1,0 +1,1075 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://globalise-huygens.github.io/2025-warwick-workshop/globalise_workshop_2026.json",
+  "type": "Manifest",
+  "label": {
+    "en": [
+      "Map Selection for the GLOBALISE Map Workshop, IISG 2026"
+    ]
+  },
+  "items": [
+    {
+      "id": "https://data.globalise.huygens.knaw.nl/manifests/maps/4.VEL/C/C.2/C.2.1/860.json/canvas/p1",
+      "type": "Canvas",
+      "height": 5881,
+      "width": 6867,
+      "label": {
+        "en": [
+          "NL-HaNA_4.VEL_860"
+        ]
+      },
+      "items": [
+        {
+          "id": "https://data.globalise.huygens.knaw.nl/manifests/maps/4.VEL/C/C.2/C.2.1/860.json/canvas/p1/annotationpage",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://data.globalise.huygens.knaw.nl/manifests/maps/4.VEL/C/C.2/C.2.1/860.json/canvas/p1/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "target": "https://data.globalise.huygens.knaw.nl/manifests/maps/4.VEL/C/C.2/C.2.1/860.json/canvas/p1",
+              "body": {
+                "id": "https://service.archief.nl/iipsrv?IIIF=/7e/7a/13/ba/8d/f0/4a/c6/8e/16/bb/c8/78/1a/15/02/c0e99776-9510-4542-a346-4134503dbb77.jp2/full/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 5881,
+                "width": 6867,
+                "service": [
+                  {
+                    "@id": "https://service.archief.nl/iipsrv?IIIF=/7e/7a/13/ba/8d/f0/4a/c6/8e/16/bb/c8/78/1a/15/02/c0e99776-9510-4542-a346-4134503dbb77.jp2",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level1"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://data.globalise.huygens.knaw.nl/manifests/maps/4.VEL/C/C.2/C.2.1/861.json/canvas/p1",
+      "type": "Canvas",
+      "height": 7524,
+      "width": 9226,
+      "label": {
+        "en": [
+          "NL-HaNA_4.VEL_861"
+        ]
+      },
+      "items": [
+        {
+          "id": "https://data.globalise.huygens.knaw.nl/manifests/maps/4.VEL/C/C.2/C.2.1/861.json/canvas/p1/annotationpage",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://data.globalise.huygens.knaw.nl/manifests/maps/4.VEL/C/C.2/C.2.1/861.json/canvas/p1/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "target": "https://data.globalise.huygens.knaw.nl/manifests/maps/4.VEL/C/C.2/C.2.1/861.json/canvas/p1",
+              "body": {
+                "id": "https://service.archief.nl/iipsrv?IIIF=/66/48/74/b4/cc/2c/4c/e8/a8/0c/fa/9f/01/9b/5f/58/5c104d1b-167b-423b-a88f-2986d7025b89.jp2/full/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 7524,
+                "width": 9226,
+                "service": [
+                  {
+                    "@id": "https://service.archief.nl/iipsrv?IIIF=/66/48/74/b4/cc/2c/4c/e8/a8/0c/fa/9f/01/9b/5f/58/5c104d1b-167b-423b-a88f-2986d7025b89.jp2",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level1"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://data.globalise.huygens.knaw.nl/manifests/maps/4.VEL/C/C.2/C.2.1/862.json/canvas/p1",
+      "type": "Canvas",
+      "height": 13106,
+      "width": 16827,
+      "label": {
+        "en": [
+          "NL-HaNA_4.VEL_862"
+        ]
+      },
+      "items": [
+        {
+          "id": "https://data.globalise.huygens.knaw.nl/manifests/maps/4.VEL/C/C.2/C.2.1/862.json/canvas/p1/annotationpage",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://data.globalise.huygens.knaw.nl/manifests/maps/4.VEL/C/C.2/C.2.1/862.json/canvas/p1/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "target": "https://data.globalise.huygens.knaw.nl/manifests/maps/4.VEL/C/C.2/C.2.1/862.json/canvas/p1",
+              "body": {
+                "id": "https://service.archief.nl/iipsrv?IIIF=/50/9e/a4/10/20/55/4f/ca/b2/74/86/e0/b7/6d/25/3b/aac35311-3774-4a7c-a901-be87d35913f1.jp2/full/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 13106,
+                "width": 16827,
+                "service": [
+                  {
+                    "@id": "https://service.archief.nl/iipsrv?IIIF=/50/9e/a4/10/20/55/4f/ca/b2/74/86/e0/b7/6d/25/3b/aac35311-3774-4a7c-a901-be87d35913f1.jp2",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level1"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://data.globalise.huygens.knaw.nl/manifests/maps/4.VEL/C/C.2/C.2.5/algemeen/924.json/canvas/p1",
+      "type": "Canvas",
+      "height": 6201,
+      "width": 8611,
+      "label": {
+        "en": [
+          "NL-HaNA_4.VEL_924"
+        ]
+      },
+      "items": [
+        {
+          "id": "https://data.globalise.huygens.knaw.nl/manifests/maps/4.VEL/C/C.2/C.2.5/algemeen/924.json/canvas/p1/annotationpage",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://data.globalise.huygens.knaw.nl/manifests/maps/4.VEL/C/C.2/C.2.5/algemeen/924.json/canvas/p1/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "target": "https://data.globalise.huygens.knaw.nl/manifests/maps/4.VEL/C/C.2/C.2.5/algemeen/924.json/canvas/p1",
+              "body": {
+                "id": "https://service.archief.nl/iipsrv?IIIF=/ea/b6/62/36/98/7b/4d/e8/89/25/15/a5/d4/7d/4d/22/d9bbbce9-e7ee-4558-baae-4680f633c5ea.jp2/full/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 6201,
+                "width": 8611,
+                "service": [
+                  {
+                    "@id": "https://service.archief.nl/iipsrv?IIIF=/ea/b6/62/36/98/7b/4d/e8/89/25/15/a5/d4/7d/4d/22/d9bbbce9-e7ee-4558-baae-4680f633c5ea.jp2",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level1"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://data.globalise.huygens.knaw.nl/manifests/maps/4.VEL/C/C.2/C.2.5/algemeen/925.json/canvas/p1",
+      "type": "Canvas",
+      "height": 8763,
+      "width": 6370,
+      "label": {
+        "en": [
+          "NL-HaNA_4.VEL_925"
+        ]
+      },
+      "items": [
+        {
+          "id": "https://data.globalise.huygens.knaw.nl/manifests/maps/4.VEL/C/C.2/C.2.5/algemeen/925.json/canvas/p1/annotationpage",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://data.globalise.huygens.knaw.nl/manifests/maps/4.VEL/C/C.2/C.2.5/algemeen/925.json/canvas/p1/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "target": "https://data.globalise.huygens.knaw.nl/manifests/maps/4.VEL/C/C.2/C.2.5/algemeen/925.json/canvas/p1",
+              "body": {
+                "id": "https://service.archief.nl/iipsrv?IIIF=/22/42/3d/3f/f3/bb/47/a3/ae/3b/15/e2/79/a6/36/93/c96e9478-a0b1-4ac4-b3da-ae0116667377.jp2/full/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 8763,
+                "width": 6370,
+                "service": [
+                  {
+                    "@id": "https://service.archief.nl/iipsrv?IIIF=/22/42/3d/3f/f3/bb/47/a3/ae/3b/15/e2/79/a6/36/93/c96e9478-a0b1-4ac4-b3da-ae0116667377.jp2",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level1"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://data.globalise.huygens.knaw.nl/manifests/maps/4.VEL/C/C.2/C.2.12/madagaskar/1129.json/canvas/p1",
+      "type": "Canvas",
+      "height": 5190,
+      "width": 3328,
+      "label": {
+        "en": [
+          "NL-HaNA_4.VEL_1129"
+        ]
+      },
+      "items": [
+        {
+          "id": "https://data.globalise.huygens.knaw.nl/manifests/maps/4.VEL/C/C.2/C.2.12/madagaskar/1129.json/canvas/p1/annotationpage",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://data.globalise.huygens.knaw.nl/manifests/maps/4.VEL/C/C.2/C.2.12/madagaskar/1129.json/canvas/p1/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "target": "https://data.globalise.huygens.knaw.nl/manifests/maps/4.VEL/C/C.2/C.2.12/madagaskar/1129.json/canvas/p1",
+              "body": {
+                "id": "https://service.archief.nl/iipsrv?IIIF=/96/13/f1/b0/4a/c2/4c/f2/b9/67/c0/cc/96/08/86/00/12f7bab3-1f8e-46da-8df3-81df726be0ac.jp2/full/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 5190,
+                "width": 3328,
+                "service": [
+                  {
+                    "@id": "https://service.archief.nl/iipsrv?IIIF=/96/13/f1/b0/4a/c2/4c/f2/b9/67/c0/cc/96/08/86/00/12f7bab3-1f8e-46da-8df3-81df726be0ac.jp2",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level1"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://data.globalise.huygens.knaw.nl/manifests/maps/4.VEL/C/C.2/C.2.12/mauritius-bourbon-rodrigues/1130.json/canvas/p1",
+      "type": "Canvas",
+      "height": 3311,
+      "width": 5140,
+      "label": {
+        "en": [
+          "NL-HaNA_4.VEL_1130"
+        ]
+      },
+      "items": [
+        {
+          "id": "https://data.globalise.huygens.knaw.nl/manifests/maps/4.VEL/C/C.2/C.2.12/mauritius-bourbon-rodrigues/1130.json/canvas/p1/annotationpage",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://data.globalise.huygens.knaw.nl/manifests/maps/4.VEL/C/C.2/C.2.12/mauritius-bourbon-rodrigues/1130.json/canvas/p1/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "target": "https://data.globalise.huygens.knaw.nl/manifests/maps/4.VEL/C/C.2/C.2.12/mauritius-bourbon-rodrigues/1130.json/canvas/p1",
+              "body": {
+                "id": "https://service.archief.nl/iipsrv?IIIF=/9e/45/34/21/a8/a2/4e/fc/b7/4c/9c/2d/59/34/16/40/d4ecf8c9-5925-44a5-ab0d-ec2f6c30ae88.jp2/full/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 3311,
+                "width": 5140,
+                "service": [
+                  {
+                    "@id": "https://service.archief.nl/iipsrv?IIIF=/9e/45/34/21/a8/a2/4e/fc/b7/4c/9c/2d/59/34/16/40/d4ecf8c9-5925-44a5-ab0d-ec2f6c30ae88.jp2",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level1"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://data.globalise.huygens.knaw.nl/manifests/maps/4.VEL/C/C.2/C.2.7/algemeen/1100.json/canvas/p1",
+      "type": "Canvas",
+      "height": 8808,
+      "width": 13001,
+      "label": {
+        "en": [
+          "NL-HaNA_4.VEL_1100"
+        ]
+      },
+      "items": [
+        {
+          "id": "https://data.globalise.huygens.knaw.nl/manifests/maps/4.VEL/C/C.2/C.2.7/algemeen/1100.json/canvas/p1/annotationpage",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://data.globalise.huygens.knaw.nl/manifests/maps/4.VEL/C/C.2/C.2.7/algemeen/1100.json/canvas/p1/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "target": "https://data.globalise.huygens.knaw.nl/manifests/maps/4.VEL/C/C.2/C.2.7/algemeen/1100.json/canvas/p1",
+              "body": {
+                "id": "https://service.archief.nl/iipsrv?IIIF=/ef/fa/32/c4/83/24/4c/83/99/12/64/68/28/a2/33/e3/7d109c43-431f-4257-ad5f-495afdba2b4f.jp2/full/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 8808,
+                "width": 13001,
+                "service": [
+                  {
+                    "@id": "https://service.archief.nl/iipsrv?IIIF=/ef/fa/32/c4/83/24/4c/83/99/12/64/68/28/a2/33/e3/7d109c43-431f-4257-ad5f-495afdba2b4f.jp2",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level1"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://data.globalise.huygens.knaw.nl/manifests/maps/4.VEL/C/C.2/C.2.13/algemeen/1135A-1135J.json/canvas/p1",
+      "type": "Canvas",
+      "height": 12154,
+      "width": 8956,
+      "label": {
+        "en": [
+          "NL-HaNA_4.VEL_1135A"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "en": [
+              "Identifier"
+            ]
+          },
+          "value": {
+            "en": [
+              "1135A"
+            ]
+          }
+        },
+        {
+          "label": {
+            "en": [
+              "Title"
+            ]
+          },
+          "value": {
+            "en": [
+              "Blad 1"
+            ]
+          }
+        },
+        {
+          "label": {
+            "en": [
+              "Date"
+            ]
+          },
+          "value": {
+            "en": [
+              "?"
+            ]
+          }
+        },
+        {
+          "label": {
+            "en": [
+              "Permalink"
+            ]
+          },
+          "value": {
+            "en": [
+              "<a href=\"http://hdl.handle.net/10648/3ce54ac4-f406-43dd-93af-b5d46bddc225\">http://hdl.handle.net/10648/3ce54ac4-f406-43dd-93af-b5d46bddc225</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://data.globalise.huygens.knaw.nl/manifests/maps/4.VEL/C/C.2/C.2.13/algemeen/1135A-1135J.json/canvas/p1/annotationpage",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://data.globalise.huygens.knaw.nl/manifests/maps/4.VEL/C/C.2/C.2.13/algemeen/1135A-1135J.json/canvas/p1/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "target": "https://data.globalise.huygens.knaw.nl/manifests/maps/4.VEL/C/C.2/C.2.13/algemeen/1135A-1135J.json/canvas/p1",
+              "body": {
+                "id": "https://service.archief.nl/iipsrv?IIIF=/da/c5/9d/5d/d1/82/49/cf/87/39/9e/56/35/99/e6/2f/cd3abd4a-f267-485c-ae1d-cfa1b0bc980e.jp2/full/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 12154,
+                "width": 8956,
+                "service": [
+                  {
+                    "@id": "https://service.archief.nl/iipsrv?IIIF=/da/c5/9d/5d/d1/82/49/cf/87/39/9e/56/35/99/e6/2f/cd3abd4a-f267-485c-ae1d-cfa1b0bc980e.jp2",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level1"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://data.globalise.huygens.knaw.nl/manifests/maps/4.VEL/C/C.2/C.2.13/algemeen/1135A-1135J.json/canvas/p2",
+      "type": "Canvas",
+      "height": 12240,
+      "width": 8931,
+      "label": {
+        "en": [
+          "NL-HaNA_4.VEL_1135B"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "en": [
+              "Identifier"
+            ]
+          },
+          "value": {
+            "en": [
+              "1135B"
+            ]
+          }
+        },
+        {
+          "label": {
+            "en": [
+              "Title"
+            ]
+          },
+          "value": {
+            "en": [
+              "Blad 2"
+            ]
+          }
+        },
+        {
+          "label": {
+            "en": [
+              "Date"
+            ]
+          },
+          "value": {
+            "en": [
+              "?"
+            ]
+          }
+        },
+        {
+          "label": {
+            "en": [
+              "Permalink"
+            ]
+          },
+          "value": {
+            "en": [
+              "<a href=\"http://hdl.handle.net/10648/d31f000a-8e73-409b-8fb5-75178c24099d\">http://hdl.handle.net/10648/d31f000a-8e73-409b-8fb5-75178c24099d</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://data.globalise.huygens.knaw.nl/manifests/maps/4.VEL/C/C.2/C.2.13/algemeen/1135A-1135J.json/canvas/p2/annotationpage",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://data.globalise.huygens.knaw.nl/manifests/maps/4.VEL/C/C.2/C.2.13/algemeen/1135A-1135J.json/canvas/p2/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "target": "https://data.globalise.huygens.knaw.nl/manifests/maps/4.VEL/C/C.2/C.2.13/algemeen/1135A-1135J.json/canvas/p2",
+              "body": {
+                "id": "https://service.archief.nl/iipsrv?IIIF=/2f/6b/3e/65/18/01/43/70/ae/da/ef/88/8d/13/2c/02/b4220694-e38a-4633-8472-a49d7823062b.jp2/full/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 12240,
+                "width": 8931,
+                "service": [
+                  {
+                    "@id": "https://service.archief.nl/iipsrv?IIIF=/2f/6b/3e/65/18/01/43/70/ae/da/ef/88/8d/13/2c/02/b4220694-e38a-4633-8472-a49d7823062b.jp2",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level1"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://data.globalise.huygens.knaw.nl/manifests/maps/4.VEL/C/C.2/C.2.13/algemeen/1135A-1135J.json/canvas/p3",
+      "type": "Canvas",
+      "height": 12171,
+      "width": 8932,
+      "label": {
+        "en": [
+          "NL-HaNA_4.VEL_1135C"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "en": [
+              "Identifier"
+            ]
+          },
+          "value": {
+            "en": [
+              "1135C"
+            ]
+          }
+        },
+        {
+          "label": {
+            "en": [
+              "Title"
+            ]
+          },
+          "value": {
+            "en": [
+              "Blad 3"
+            ]
+          }
+        },
+        {
+          "label": {
+            "en": [
+              "Date"
+            ]
+          },
+          "value": {
+            "en": [
+              "?"
+            ]
+          }
+        },
+        {
+          "label": {
+            "en": [
+              "Permalink"
+            ]
+          },
+          "value": {
+            "en": [
+              "<a href=\"http://hdl.handle.net/10648/29ea1d1f-8d28-48cf-b8d5-ad5008147f8b\">http://hdl.handle.net/10648/29ea1d1f-8d28-48cf-b8d5-ad5008147f8b</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://data.globalise.huygens.knaw.nl/manifests/maps/4.VEL/C/C.2/C.2.13/algemeen/1135A-1135J.json/canvas/p3/annotationpage",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://data.globalise.huygens.knaw.nl/manifests/maps/4.VEL/C/C.2/C.2.13/algemeen/1135A-1135J.json/canvas/p3/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "target": "https://data.globalise.huygens.knaw.nl/manifests/maps/4.VEL/C/C.2/C.2.13/algemeen/1135A-1135J.json/canvas/p3",
+              "body": {
+                "id": "https://service.archief.nl/iipsrv?IIIF=/ee/c4/99/be/c9/43/45/d1/81/21/a6/d2/26/e4/35/a6/2b5d18df-8131-4005-ad1a-32aa56f3947f.jp2/full/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 12171,
+                "width": 8932,
+                "service": [
+                  {
+                    "@id": "https://service.archief.nl/iipsrv?IIIF=/ee/c4/99/be/c9/43/45/d1/81/21/a6/d2/26/e4/35/a6/2b5d18df-8131-4005-ad1a-32aa56f3947f.jp2",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level1"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://data.globalise.huygens.knaw.nl/manifests/maps/4.VEL/C/C.2/C.2.13/algemeen/1135A-1135J.json/canvas/p4",
+      "type": "Canvas",
+      "height": 12251,
+      "width": 8963,
+      "label": {
+        "en": [
+          "NL-HaNA_4.VEL_1135D"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "en": [
+              "Identifier"
+            ]
+          },
+          "value": {
+            "en": [
+              "1135D"
+            ]
+          }
+        },
+        {
+          "label": {
+            "en": [
+              "Title"
+            ]
+          },
+          "value": {
+            "en": [
+              "Blad 4"
+            ]
+          }
+        },
+        {
+          "label": {
+            "en": [
+              "Date"
+            ]
+          },
+          "value": {
+            "en": [
+              "?"
+            ]
+          }
+        },
+        {
+          "label": {
+            "en": [
+              "Permalink"
+            ]
+          },
+          "value": {
+            "en": [
+              "<a href=\"http://hdl.handle.net/10648/21a76502-1045-4ce2-8a40-7f71823fc9d0\">http://hdl.handle.net/10648/21a76502-1045-4ce2-8a40-7f71823fc9d0</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://data.globalise.huygens.knaw.nl/manifests/maps/4.VEL/C/C.2/C.2.13/algemeen/1135A-1135J.json/canvas/p4/annotationpage",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://data.globalise.huygens.knaw.nl/manifests/maps/4.VEL/C/C.2/C.2.13/algemeen/1135A-1135J.json/canvas/p4/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "target": "https://data.globalise.huygens.knaw.nl/manifests/maps/4.VEL/C/C.2/C.2.13/algemeen/1135A-1135J.json/canvas/p4",
+              "body": {
+                "id": "https://service.archief.nl/iipsrv?IIIF=/d9/01/8e/6c/77/5b/43/5c/94/0e/e9/7c/a6/48/b4/3d/db55dd8d-23df-4264-a505-010d6e08c436.jp2/full/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 12251,
+                "width": 8963,
+                "service": [
+                  {
+                    "@id": "https://service.archief.nl/iipsrv?IIIF=/d9/01/8e/6c/77/5b/43/5c/94/0e/e9/7c/a6/48/b4/3d/db55dd8d-23df-4264-a505-010d6e08c436.jp2",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level1"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://data.globalise.huygens.knaw.nl/manifests/maps/4.VEL/C/C.2/C.2.13/algemeen/1135A-1135J.json/canvas/p5",
+      "type": "Canvas",
+      "height": 12275,
+      "width": 9027,
+      "label": {
+        "en": [
+          "NL-HaNA_4.VEL_1135E"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "en": [
+              "Identifier"
+            ]
+          },
+          "value": {
+            "en": [
+              "1135E"
+            ]
+          }
+        },
+        {
+          "label": {
+            "en": [
+              "Title"
+            ]
+          },
+          "value": {
+            "en": [
+              "Blad 5"
+            ]
+          }
+        },
+        {
+          "label": {
+            "en": [
+              "Date"
+            ]
+          },
+          "value": {
+            "en": [
+              "?"
+            ]
+          }
+        },
+        {
+          "label": {
+            "en": [
+              "Permalink"
+            ]
+          },
+          "value": {
+            "en": [
+              "<a href=\"http://hdl.handle.net/10648/74a9bbb3-d30d-4204-b528-5913d23cb96e\">http://hdl.handle.net/10648/74a9bbb3-d30d-4204-b528-5913d23cb96e</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://data.globalise.huygens.knaw.nl/manifests/maps/4.VEL/C/C.2/C.2.13/algemeen/1135A-1135J.json/canvas/p5/annotationpage",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://data.globalise.huygens.knaw.nl/manifests/maps/4.VEL/C/C.2/C.2.13/algemeen/1135A-1135J.json/canvas/p5/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "target": "https://data.globalise.huygens.knaw.nl/manifests/maps/4.VEL/C/C.2/C.2.13/algemeen/1135A-1135J.json/canvas/p5",
+              "body": {
+                "id": "https://service.archief.nl/iipsrv?IIIF=/da/f6/43/72/11/1b/4b/22/af/90/24/2c/5a/dc/48/d2/dd51b3e4-5d9e-4db2-a48b-4c9dda84be8a.jp2/full/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 12275,
+                "width": 9027,
+                "service": [
+                  {
+                    "@id": "https://service.archief.nl/iipsrv?IIIF=/da/f6/43/72/11/1b/4b/22/af/90/24/2c/5a/dc/48/d2/dd51b3e4-5d9e-4db2-a48b-4c9dda84be8a.jp2",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level1"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://data.globalise.huygens.knaw.nl/manifests/maps/4.VEL/C/C.2/C.2.13/algemeen/1135A-1135J.json/canvas/p6",
+      "type": "Canvas",
+      "height": 12303,
+      "width": 9021,
+      "label": {
+        "en": [
+          "NL-HaNA_4.VEL_1135F"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "en": [
+              "Identifier"
+            ]
+          },
+          "value": {
+            "en": [
+              "1135F"
+            ]
+          }
+        },
+        {
+          "label": {
+            "en": [
+              "Title"
+            ]
+          },
+          "value": {
+            "en": [
+              "Blad 6"
+            ]
+          }
+        },
+        {
+          "label": {
+            "en": [
+              "Date"
+            ]
+          },
+          "value": {
+            "en": [
+              "?"
+            ]
+          }
+        },
+        {
+          "label": {
+            "en": [
+              "Permalink"
+            ]
+          },
+          "value": {
+            "en": [
+              "<a href=\"http://hdl.handle.net/10648/4cea13d0-62e3-4236-92c2-d99ac028bc0c\">http://hdl.handle.net/10648/4cea13d0-62e3-4236-92c2-d99ac028bc0c</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://data.globalise.huygens.knaw.nl/manifests/maps/4.VEL/C/C.2/C.2.13/algemeen/1135A-1135J.json/canvas/p6/annotationpage",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://data.globalise.huygens.knaw.nl/manifests/maps/4.VEL/C/C.2/C.2.13/algemeen/1135A-1135J.json/canvas/p6/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "target": "https://data.globalise.huygens.knaw.nl/manifests/maps/4.VEL/C/C.2/C.2.13/algemeen/1135A-1135J.json/canvas/p6",
+              "body": {
+                "id": "https://service.archief.nl/iipsrv?IIIF=/23/68/b1/3c/97/ec/47/c2/88/6f/81/0f/82/c2/6d/ff/bb0c928a-e264-4f3b-b59a-4e4862bc216c.jp2/full/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 12303,
+                "width": 9021,
+                "service": [
+                  {
+                    "@id": "https://service.archief.nl/iipsrv?IIIF=/23/68/b1/3c/97/ec/47/c2/88/6f/81/0f/82/c2/6d/ff/bb0c928a-e264-4f3b-b59a-4e4862bc216c.jp2",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level1"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://data.globalise.huygens.knaw.nl/manifests/maps/4.VEL/C/C.2/C.2.13/algemeen/1135A-1135J.json/canvas/p7",
+      "type": "Canvas",
+      "height": 12264,
+      "width": 9039,
+      "label": {
+        "en": [
+          "NL-HaNA_4.VEL_1135G"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "en": [
+              "Identifier"
+            ]
+          },
+          "value": {
+            "en": [
+              "1135G"
+            ]
+          }
+        },
+        {
+          "label": {
+            "en": [
+              "Title"
+            ]
+          },
+          "value": {
+            "en": [
+              "Blad 7"
+            ]
+          }
+        },
+        {
+          "label": {
+            "en": [
+              "Date"
+            ]
+          },
+          "value": {
+            "en": [
+              "?"
+            ]
+          }
+        },
+        {
+          "label": {
+            "en": [
+              "Permalink"
+            ]
+          },
+          "value": {
+            "en": [
+              "<a href=\"http://hdl.handle.net/10648/4933cec4-37b8-4529-aef5-be4fe671252f\">http://hdl.handle.net/10648/4933cec4-37b8-4529-aef5-be4fe671252f</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://data.globalise.huygens.knaw.nl/manifests/maps/4.VEL/C/C.2/C.2.13/algemeen/1135A-1135J.json/canvas/p7/annotationpage",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://data.globalise.huygens.knaw.nl/manifests/maps/4.VEL/C/C.2/C.2.13/algemeen/1135A-1135J.json/canvas/p7/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "target": "https://data.globalise.huygens.knaw.nl/manifests/maps/4.VEL/C/C.2/C.2.13/algemeen/1135A-1135J.json/canvas/p7",
+              "body": {
+                "id": "https://service.archief.nl/iipsrv?IIIF=/9f/48/36/41/46/2a/49/c3/94/49/cc/55/19/e3/4a/fd/f2073223-9a89-47e2-a4e1-1abb285c4f90.jp2/full/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 12264,
+                "width": 9039,
+                "service": [
+                  {
+                    "@id": "https://service.archief.nl/iipsrv?IIIF=/9f/48/36/41/46/2a/49/c3/94/49/cc/55/19/e3/4a/fd/f2073223-9a89-47e2-a4e1-1abb285c4f90.jp2",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level1"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://data.globalise.huygens.knaw.nl/manifests/maps/4.VEL/C/C.2/C.2.13/algemeen/1135A-1135J.json/canvas/p8",
+      "type": "Canvas",
+      "height": 12205,
+      "width": 8955,
+      "label": {
+        "en": [
+          "NL-HaNA_4.VEL_1135H"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "en": [
+              "Identifier"
+            ]
+          },
+          "value": {
+            "en": [
+              "1135H"
+            ]
+          }
+        },
+        {
+          "label": {
+            "en": [
+              "Title"
+            ]
+          },
+          "value": {
+            "en": [
+              "Blad 8"
+            ]
+          }
+        },
+        {
+          "label": {
+            "en": [
+              "Date"
+            ]
+          },
+          "value": {
+            "en": [
+              "?"
+            ]
+          }
+        },
+        {
+          "label": {
+            "en": [
+              "Permalink"
+            ]
+          },
+          "value": {
+            "en": [
+              "<a href=\"http://hdl.handle.net/10648/cb23e7d4-f4ca-43d2-acbf-8bdf327217cb\">http://hdl.handle.net/10648/cb23e7d4-f4ca-43d2-acbf-8bdf327217cb</a>"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://data.globalise.huygens.knaw.nl/manifests/maps/4.VEL/C/C.2/C.2.13/algemeen/1135A-1135J.json/canvas/p8/annotationpage",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://data.globalise.huygens.knaw.nl/manifests/maps/4.VEL/C/C.2/C.2.13/algemeen/1135A-1135J.json/canvas/p8/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "target": "https://data.globalise.huygens.knaw.nl/manifests/maps/4.VEL/C/C.2/C.2.13/algemeen/1135A-1135J.json/canvas/p8",
+              "body": {
+                "id": "https://service.archief.nl/iipsrv?IIIF=/b0/39/29/d5/95/64/42/3f/9f/ad/32/e9/2a/ae/78/a8/cf5aa0bc-9e61-4a5b-b8ed-e197c54979b9.jp2/full/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 12205,
+                "width": 8955,
+                "service": [
+                  {
+                    "@id": "https://service.archief.nl/iipsrv?IIIF=/b0/39/29/d5/95/64/42/3f/9f/ad/32/e9/2a/ae/78/a8/cf5aa0bc-9e61-4a5b-b8ed-e197c54979b9.jp2",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level1"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://data.globalise.huygens.knaw.nl/manifests/maps/4.VEL/C/C.2/C.2.13/banda-eilanden/algemeen/1356.json/canvas/p1",
+      "type": "Canvas",
+      "height": 3948,
+      "width": 4908,
+      "label": {
+        "en": [
+          "NL-HaNA_4.VEL_1356"
+        ]
+      },
+      "items": [
+        {
+          "id": "https://data.globalise.huygens.knaw.nl/manifests/maps/4.VEL/C/C.2/C.2.13/banda-eilanden/algemeen/1356.json/canvas/p1/annotationpage",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://data.globalise.huygens.knaw.nl/manifests/maps/4.VEL/C/C.2/C.2.13/banda-eilanden/algemeen/1356.json/canvas/p1/anno",
+              "type": "Annotation",
+              "motivation": "painting",
+              "target": "https://data.globalise.huygens.knaw.nl/manifests/maps/4.VEL/C/C.2/C.2.13/banda-eilanden/algemeen/1356.json/canvas/p1",
+              "body": {
+                "id": "https://service.archief.nl/iipsrv?IIIF=/5c/79/32/a9/6a/7e/47/86/a8/c0/3d/1b/e1/1c/f9/e0/8b392fe2-8fed-4af8-a1d9-6982236564eb.jp2/full/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 3948,
+                "width": 4908,
+                "service": [
+                  {
+                    "@id": "https://service.archief.nl/iipsrv?IIIF=/5c/79/32/a9/6a/7e/47/86/a8/c0/3d/1b/e1/1c/f9/e0/8b392fe2-8fed-4af8-a1d9-6982236564eb.jp2",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level1"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
